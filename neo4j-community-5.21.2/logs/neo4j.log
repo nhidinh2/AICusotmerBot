@@ -1,0 +1,84 @@
+2024-08-06 01:32:03.258+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2024-08-06 01:32:03.261+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2024-08-06 01:32:03.262+0000 INFO  Logging config in use: File '/Users/dinhuyennhi/untitled folder/neo4j-community-5.21.2/conf/user-logs.xml'
+2024-08-06 01:32:03.271+0000 INFO  Starting...
+2024-08-06 01:32:05.491+0000 INFO  This instance is ServerId{d5cd526e} (d5cd526e-1d93-4265-a192-36ab60429f88)
+2024-08-06 01:32:07.257+0000 INFO  ======== Neo4j 5.21.2 ========
+2024-08-06 01:32:10.166+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2024-08-06 01:32:21.074+0000 ERROR Failed to start Neo4j on localhost:7474.
+java.lang.RuntimeException: Error starting Neo4j database server at /Users/dinhuyennhi/untitled folder/neo4j-community-5.21.2/data/databases
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.startDatabaseServer(DatabaseManagementServiceFactory.java:280) ~[neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.build(DatabaseManagementServiceFactory.java:215) ~[neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.CommunityBootstrapper.createNeo(CommunityBootstrapper.java:38) ~[neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.NeoBootstrapper.start(NeoBootstrapper.java:184) [neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.NeoBootstrapper.start(NeoBootstrapper.java:99) [neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.CommunityEntryPoint.main(CommunityEntryPoint.java:30) [neo4j-5.21.2.jar:5.21.2]
+Caused by: org.neo4j.kernel.lifecycle.LifecycleException: Component 'org.neo4j.bolt.protocol.common.connector.netty.SocketNettyConnector@75c3584e' was successfully initialized, but failed to start. Please see the attached cause exception "bind(..) failed: Address already in use".
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:364) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.bolt.BoltServer.start(BoltServer.java:349) ~[neo4j-bolt-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:347) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.startDatabaseServer(DatabaseManagementServiceFactory.java:271) ~[neo4j-5.21.2.jar:5.21.2]
+	... 5 more
+Caused by: org.neo4j.configuration.helpers.PortBindException: An error occurred while trying to bind to the socket localhost/127.0.0.1:7687
+	at org.neo4j.bolt.protocol.common.connector.netty.AbstractNettyConnector.start(AbstractNettyConnector.java:225) ~[neo4j-bolt-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:347) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.bolt.BoltServer.start(BoltServer.java:349) ~[neo4j-bolt-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:347) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.startDatabaseServer(DatabaseManagementServiceFactory.java:271) ~[neo4j-5.21.2.jar:5.21.2]
+	... 5 more
+Caused by: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+2024-08-06 01:32:21.075+0000 INFO  Neo4j Server shutdown initiated by request
+2024-08-06 01:32:21.076+0000 INFO  Stopped.
+2024-08-06 01:34:43.311+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2024-08-06 01:34:43.314+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2024-08-06 01:34:43.314+0000 INFO  Logging config in use: File '/Users/dinhuyennhi/untitled folder/neo4j-community-5.21.2/conf/user-logs.xml'
+2024-08-06 01:34:43.325+0000 INFO  Starting...
+2024-08-06 01:34:44.609+0000 INFO  This instance is ServerId{d5cd526e} (d5cd526e-1d93-4265-a192-36ab60429f88)
+2024-08-06 01:34:45.663+0000 INFO  ======== Neo4j 5.21.2 ========
+2024-08-06 01:34:47.369+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2024-08-06 01:34:58.180+0000 ERROR Failed to start Neo4j on localhost:7474.
+java.lang.RuntimeException: Error starting Neo4j database server at /Users/dinhuyennhi/untitled folder/neo4j-community-5.21.2/data/databases
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.startDatabaseServer(DatabaseManagementServiceFactory.java:280) ~[neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.build(DatabaseManagementServiceFactory.java:215) ~[neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.CommunityBootstrapper.createNeo(CommunityBootstrapper.java:38) ~[neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.NeoBootstrapper.start(NeoBootstrapper.java:184) [neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.NeoBootstrapper.start(NeoBootstrapper.java:99) [neo4j-5.21.2.jar:5.21.2]
+	at org.neo4j.server.CommunityEntryPoint.main(CommunityEntryPoint.java:30) [neo4j-5.21.2.jar:5.21.2]
+Caused by: org.neo4j.kernel.lifecycle.LifecycleException: Component 'org.neo4j.bolt.protocol.common.connector.netty.SocketNettyConnector@32fd5bc' was successfully initialized, but failed to start. Please see the attached cause exception "bind(..) failed: Address already in use".
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:364) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.bolt.BoltServer.start(BoltServer.java:349) ~[neo4j-bolt-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:347) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.startDatabaseServer(DatabaseManagementServiceFactory.java:271) ~[neo4j-5.21.2.jar:5.21.2]
+	... 5 more
+Caused by: org.neo4j.configuration.helpers.PortBindException: An error occurred while trying to bind to the socket localhost/127.0.0.1:7687
+	at org.neo4j.bolt.protocol.common.connector.netty.AbstractNettyConnector.start(AbstractNettyConnector.java:225) ~[neo4j-bolt-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:347) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.bolt.BoltServer.start(BoltServer.java:349) ~[neo4j-bolt-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport$LifecycleInstance.start(LifeSupport.java:347) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.kernel.lifecycle.LifeSupport.start(LifeSupport.java:91) ~[neo4j-common-5.21.2.jar:5.21.2]
+	at org.neo4j.graphdb.facade.DatabaseManagementServiceFactory.startDatabaseServer(DatabaseManagementServiceFactory.java:271) ~[neo4j-5.21.2.jar:5.21.2]
+	... 5 more
+Caused by: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+2024-08-06 01:34:58.185+0000 INFO  Neo4j Server shutdown initiated by request
+2024-08-06 01:34:58.188+0000 INFO  Stopped.
+2024-08-06 01:37:54.166+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2024-08-06 01:37:54.171+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2024-08-06 01:37:54.172+0000 INFO  Logging config in use: File '/Users/dinhuyennhi/untitled folder/neo4j-community-5.21.2/conf/user-logs.xml'
+2024-08-06 01:37:54.181+0000 INFO  Starting...
+2024-08-06 01:37:55.391+0000 INFO  This instance is ServerId{d5cd526e} (d5cd526e-1d93-4265-a192-36ab60429f88)
+2024-08-06 01:37:56.440+0000 INFO  ======== Neo4j 5.21.2 ========
+2024-08-06 01:37:58.106+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2024-08-06 01:37:58.136+0000 INFO  Bolt enabled on localhost:7687.
+2024-08-06 01:37:58.621+0000 INFO  HTTP enabled on localhost:7474.
+2024-08-06 01:37:58.621+0000 INFO  Remote interface available at http://localhost:7474/
+2024-08-06 01:37:58.623+0000 INFO  id: 43C899BF8AD1175BCEF4102450208E38DDEC41259726A71E960042851D6B748D
+2024-08-06 01:37:58.624+0000 INFO  name: system
+2024-08-06 01:37:58.624+0000 INFO  creationDate: 2024-08-06T01:32:08.767Z
+2024-08-06 01:37:58.624+0000 INFO  Started.

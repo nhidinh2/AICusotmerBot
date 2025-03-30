@@ -1,0 +1,1067 @@
+"id","text_units","raw_content","title"
+"d1d8f00369755e0157bedf841fd57ee7","['72c428d19c253035db6c6e314742ef8c' '8574f3834cc035915cdfb9d2eedd0dc1'
+ 'eab95c5e8ff4164dcfcbe12e60dd94ce' '1d3c82fc7b0630a6c46863b979a2af4c'
+ '9ea072a756077acc1c0b5f1c59da3857' '8778f2e1feedb2a804f63de12dfc56b3'
+ 'fed1b4e2531fa3c89795c65da306e3cf' 'd03a5be917279f47816e4c9711cc5798'
+ 'aca5193f0679c6672a279110869b8758' '7f0880f07529079291b15cc45b96a2de'
+ '670d5b8f163e15e36907bb41ad7fb981' 'bfdf3977c46f0ead15f3f8c1c9c39f40'
+ '8a315092dad843d4bcaf2d09091fb3be' '5bdccd63cc7c923ee576d653cc4f83b7'
+ '6715eef1712e0d946549e6681a259bd0' '125aaa8d948c6ad2f25489cd7366c153'
+ 'b7d7a176a30e0cad4e21d20d4ed670ba' '1dab4da3dc6ce428ca1f1aff6469071c'
+ '5f9d5c30d0a45936539e58a40065c8ab' '635eabb30b2c974b48872e2656108042'
+ '662a878337a29f5a913958b8546c3eb5' 'e8c68c9c41b007f2d476c4e03df49815'
+ '26827ec7b673b1b365b796c999c26d3c' '0b7912396c8cde985ddee6dc17ec0d4f'
+ '430653c21d95ba37d4eae0e76ea56985' 'd39928803a30957c678ba7bfc7335744'
+ '9be6b5fd2c5d01ecc07636596864b95e' '4a056777579e17ab8df83067d9738864'
+ '858692a6991a43581eb17b695978b12c' '5ffa0e4028e6f5fb5d36d31c7b6baac1'
+ 'e9282c280e5ee6794e75e1642753c546' 'bd51762f5e0b283bfbb800d6d11a40ed'
+ 'e996589ad5cee0c543ed988a77081773' '811e2aea35222d79c8ab2b4e1682750c'
+ '26952620749ea86364db720687c3f0b2' 'fef9c649ce6a269e3527f9c73e29aceb'
+ '2416bbdc682287235364cc5dcf3b768c' '15e19a9eed9e792a37f0ad41d3a965bd'
+ 'e87ce9ead619379b75f606b5ed62c8d4' '5aba713d34cf47d3a146255cb3b5584a'
+ 'dd0e8c3a53affd5981f84d21983eb5ee' '8f5d126775576a236cb53e6f86b663da'
+ '078f14bae4d779e6ad5fad23e7f2ea43' '82f6df8c73c78cf4fd7eed0d4e5e77b7'
+ '8a22d1ed78856814aba3794bf1b450aa' 'e5fa74b405fb017d2cffb093ab477001'
+ '563361f76d1a9622c17edd6689d14bfb' 'ac4cec82c21d6c2b8c5e2e9b3be742b8'
+ '38dd0921ac731174a59ec6e94eeab28b' 'd7bbdfbd03e739c6c52bd3c9096bbcd2'
+ '10955923af33dd58454b796b2da93d07' '26aeb6f00d5522b71f5210e7e66a2cb7'
+ '94f5ee6f7ea75fa6da839400ada6c9ec' 'd6fed9f836099d34eeb33a689ef5905b'
+ '9c29a6ca388e1ef7ee4a4bd25695cb71' '9706700c164888cada6cc7690b0558e3'
+ '3405d57ce2cb8930da5dfb2d59f15ce1' 'c9391913bcbf6c8ce05f702658ff0f0f'
+ '40aecf550b64085ed8aa08f800e16a30' '5a23cb91ee6aebebc216620b08be0d41'
+ '01a44471658f608d573d20b284b08638' 'e799020bd4ed9106a95fb5715fef0d57'
+ '6b7d7bef02fe471453e86ff1551c6a7a' '21e832b2ab519ad1e3a8ac46ab4842fe'
+ 'be4aea5c3851b39e2ff5c367900daa90' 'fe67ca15be08a6b00a245e63131b8a03'
+ '6aebc820a4158d720b76fe99d4786e12' '0d038a2560cc5bf059eccc772d45635c'
+ '0e09879bf7db3d8a2ef74d68d4e2e984' '9796f10b22a5b0a3db4557e3075bdbb0'
+ 'a7afffd39fb1e0380ea66d364f749532' '35f219c5349bc5c6b800b555b7325333'
+ 'cde81b63c0352bb90b98015501a3b422' 'e11ca4f8828577aaf7126b6cb523dc0c'
+ '1f20c2401d483b8a4f7e94c30ef806c0' 'eac76d5cf62bdb175682def4193cbc29'
+ '5b166187db4b621cb91cbcabbfbd460b' '241ba511a6b267992f84019bcafa5146'
+ '1b7afcab69384f4109d8537750df26a0' '27b41eca87bd22a28604791bb17dbdbc'
+ '67a230cf4b51067fac96ba864d694107' 'c2ad2384fcd7d5fb0deb4af86a9380ba'
+ '4df4c580b88edb58280040957d2b13c5' '2a4dfba4750588906f2098f45d6ef795'
+ '0e6d1961c112676304a1c82938f647f0' '8247eaabe8d0db4fc1c5828f95e413ff'
+ '7a9d013be64113ac0b686f7835ad3646' 'fb91f31375af53453d052fdff50f6187'
+ 'b9b9e11170b32192d67fdf084d715f45' '66cc93ab286227e785be2cd8302cab77'
+ '6965a0a9afffb8be84b960e5517baba8' '07ee7a0c9129745b5e378841be05c2ae'
+ '0ef90d46880110c9301c8eb4b21ebb44' 'f2b9a3e3b16a5ef347d9b801f0c92955'
+ 'd2e04ee9d1cdefef4e95bc5b34b0dbfb' 'cc4a8818601cdc620d55eef2b6ed49f7'
+ '97543c44edcfe91806ae4966fb27036a' 'c7090e265fb62a1c444aee9773b4bea3'
+ '8b34a2b22abe94c075872bb4ab06d253' '72ef77d14fd5f7379a4d83d84a21217c'
+ '5a24be5be62e4c2b6089680d85a28bb2' '25fe70f4e78e841093d4e470427c5217'
+ '13526d7718fb859960383037dbbaf4e4' '92e60b810f5507e207306d25d04c0814'
+ '839b9207b75bf3ace550391324a33388' 'f702c7b6765a8888a8ea861f2a4c014d'
+ 'fe776e2fb42accc6008bfd9f9c017855' '4d28b35e2fd1fe04534b8fe505fb07cc'
+ '43fe3eabe57a1961a64491c86cb08d67' '9a19753353f40064a6811288ab2c7556'
+ '60ebabe690f6d6bd2408ac12e84701ab' 'a9baed6c1234760eb79ab79ad2e3c4b8'
+ '84d2fded9e5586dd584e403e106085ca' 'c4a15b4c2991a5c14031f996e99ba460'
+ '99db7b89b640a0c2570b3bb8e21f43f7' '85866d97200f421b7d8eaa3b9663908c'
+ '10c4087ea9328fcec618be8c8c72a545' '595dc3457df06d08ab6fd04192ca4288'
+ '27dcc94d9b7fde810dec04243d5f4424' 'bc43017fa804602eec26c90d6d112e06'
+ 'e8d077c7aea2ce872593c6e0d8ad3df4' '6742be446922dd121eefd8afff18537b'
+ '4e9cd7c817b157e416ae8f8ffed06c56' 'd85a9f80c3a8b981f89c9aeaf3defe13'
+ 'ccdc87603fa2414f50c8b18e3ab78c70' '6b7528cd9ea8d789abe3c8ea558e0abe'
+ '777d349ff472a2c8dff56fdc417e9ad6' '748a5cb2e67b0d24c5e76078514b228f'
+ '8524d4a8759107a21626d3501c4724e2' '8317f7c931427b74d2356951f0383b72'
+ '7c816fbd38dc2ec7d29db9c8f19bc5c6' '508ac5faa042c00b4881fdb044ec22a1'
+ '2d8598614a3b2a6df74b101ab9d9f3db' '20e0df85ac24e24c4e87ae59c728636a'
+ '9ec3183997e9b53cecc3d69523d6c509' '5a8cea5cfd5efda0dd2fbcb18978cfd4'
+ 'ca5a65939fc04c9d28026d5c955aa877' 'aec0495f6dbc3f5896ec07ec7ebe251e'
+ 'ff5db536458a8abf6a70a74408c4dfec' '2bd9d64dccdbf2ad7cb29afe2ccc3479'
+ 'efa0f2467e6242170a2d90a14385554e' '4afd356aec4d6f5d391159dd033f2e2b'
+ '8fbade2505b0850c4038ba4b0b013b29' '2ca4dd87df7a7297bd3a223b08f539bd'
+ '542e71d7d8d24c707e8aa684ca847c38' '6f664b027f5136242609cc38adf527b1'
+ '008d65e4640a5208f1016c02bde466fa' '02d2277b6e803b3a6f72b3721eb23490'
+ '61fb908630d3c280e95911db487c62e4' '7e108a1f0876a82e34633eee74f96309'
+ '16e0ed7f7ab6b92d2c5616655df1ed00' '1dc33c657628dd4ef956950e220b70da'
+ 'cbf4462f3611d64fd6ecf0ba54555a49' '2bef9f2520b250df2955e1148e863a15'
+ '7b3ffa4aa3640fab05df340f23773806' '1a7a2ff68d41451fd234f3b95d8f9438'
+ '556b05eca1c1694a4f7ac7a9aeef4d13' 'f6c425bdd3bdadaa7f7b65901b875aa6'
+ '2bac8cd2c646865c07a176576b25a409' 'bdac16159b60ffb7d6f9ffa4bc2f87d1'
+ '1cd97c98e1c0d5f114e9004dbdea93ea' '81dfed839bbb088d66ed74faafa95382'
+ 'ec821b7ffc72d74c237ed12d21aba6f3' '4b2c53355f86a10ae990338ebcb9c1cf'
+ 'ccde189789ac67cba39855daf5e2899d' '2b16421c02f2ac235ddc41778b2e16f2'
+ '1fb6362cb4b546e723baef4dcb5c1be5' 'c71a117a935af73367b81946726d7777'
+ 'db743da6be29d97ffc8abdd6d3be4aef' '3f8b6d62e8bb7c6f21608de7fea4ba02'
+ 'cbed4d4646f17080ba6330956c14d83f' '12d1f91e89d082920c89bcdd2f7660ec'
+ '016f43c5ba92b8259d4a288f96a46817' '1b7754026ba47eeb65fc0fbd78b1c0f7'
+ '2c3ae7491cabfdc2946c79ea584fb1ca' '1170f02c4f72abe944971b085d7e2626'
+ '084712776af45fb46dcf1027340a40b7' '040eeb0720e09da6eb2c8c738363f73b'
+ '0318240c7b8fd392bf7ac9b77955c1bf' 'c129c0bc6ccf3512f0165c48e1049069'
+ 'e9920413a3f5993720991dcdf41c4f86' '0f8aa8ebfb90aaa521f8729d6eebd88a'
+ 'e0908e3a059996366c190493e47922b1' '560c1bc6f36029f367ef54b7a12138af'
+ '84ff06dea81e5f41c6eb079567d55f16' '4de94a9646e4fa0e3488ab9431283633'
+ '7d4a6d64f3da1057d18a58518005274b' '50a6b12300875b1d5702ab57bcc76adb'
+ '0155a5af5c1988637b742a0797735194' '202265b0fffd28a9b77f9e17d1fcc200'
+ '78c9461234ebe64ad91af16347b2afbd' '9e8879c44f400bef99b17abce60e5e94'
+ 'a94ef355681ae5aeaab52a0ccc3bdf77' '40935643bba261a08331db8f80b4daff'
+ '75a02e1fa0218f727556374d01a40ae6' '71d4b3f37fec86c606f4be10b449c8f8'
+ 'e9d3f68998cff4ee8aed538a49af5a55' '8844fa2234338bedbca82d8d3037e7d4'
+ '7af789bc7cfb0baad062c01598795734' 'e1eb7906abef0df477bcdf943f251619'
+ '52e9bb83e1dea49d72f739eff4157afb' '22d82491004a265aac66747d702a75e4'
+ 'e94cfb8c395a24fbf6db9a2baed8c5d5' 'cb848450d765573a20628fb40c1c5422'
+ '0bd73ffe9a13d46d48e9c6980b189c06' 'dac97e22f33a54daa033288fefb7670a'
+ '5a5098a7da5079c20d8cd8f4078f9f9f' '93a3e213610179f15f67d6b97cb5d653'
+ '3e7137a5586a37c27f0515f4775e12dd' 'b811eb9222b8eeedce1c40b89e3bc016'
+ '55c694e950262cc7801d636dbb928245' '5b2f0bf433bcfc972d553e0b74427aa7'
+ 'ea96ddadb47760fb6285d78ff43334d1' '100579c0649a951fa90b7a0391a7d23c'
+ '199aaf11765d80d02409aaab8b691903' 'c305e9f4ac1d42bec43a03d0bcb8a30e'
+ 'cfb84af0b32b80838186149eee2b7617' 'fb27603a4f1a2d91a8945c606f9ec33a'
+ '5745f5e4d87d8a641c08ff3c39924914' '4e5d43d52ee94db71358bd3018506fed'
+ '2c4f225a4026bac08c45411f5f164b08' '6f128a0a28b0677d871bbdd1920eed09'
+ '2e9c77aefcb96dfde90c451bba99ea10' 'ab9239e37545bab393167cac4336ef7b'
+ '29750a46f9f48a342b820405acb02ca8' '77440a6dc67b414b93e032c60ac86fca'
+ '9843dda47d8fa4ee99109e43c28ae2c3' '78ebb589250e60c469defdab2bfd42c0'
+ 'f18e64cf0b56da58916cf12abceef1dd' '12f624e00deebef43a41293851609f1d'
+ '4d11c4b0dc5844f6a10fadd077fa6077' '17dce7613a6c56003b6c2cd4b5074283'
+ 'da0fc02ebeaa7d8a244815162b4bce1a' '5d4276addc2f2965b4d5be07d544a40c'
+ '3df7788c67d82eb373cc637094d93edd' 'ad2ff5cd62185a7e86d52e68285426d7'
+ 'b8530184c3071c97429601a06820847b' 'dfd98af875b627510a891c3d4e375775'
+ 'dc7f8f92d980ce2b57ed53931cacfbb6' '84aaa55c740cd0a46f92aaae2d4c4290']","""Bán chứng khoán lô lẻ
+Để thuận tiện cho việc giao dịch chứng khoán lô lẻ của quý khách hàng, MBS thông báo triển khai dịch vụ giao dịch chứng khoán lô lẻ không qua sàn trên các kênh giao dịch online của MBS gồm: S24 và MBS Mobile App.
+1. Quy định về giao dịch lô lẻ:
+Cổ phiếu lô lẻ là cổ phiếu có khối lượng từ 1 đến 99 cổ phiếu hoặc theo quy định pháp luật từng thời kỳ. Nhà đầu tư có thể chọn giao dịch CP lô lẻ trực tiếp theo quy định của các Sở Giao dịch chứng khoán hoặc bán cho công ty chứng khoán theo chính sách từng công ty chứng khoán.
+2. Cách thực hiện tại MBS:
+Áp dụng cho Khách hàng đã đăng ký dịch vụ bán chứng khoán lô lẻ online của MBS.
+MBS thực hiện thu mua cổ phiếu lô lẻ trên sàn HSX và HNX.
+Khách hàng chỉ cần đăng nhập vào S24/MBS Mobile App và thực hiện bán chứng khoán lô lẻ vào thứ 6 hàng tuần (Thời gian đặt lệnh từ 8h sáng đến 5h30 chiều).
+Giá giao dịch là giá sàn của cổ phiếu tại ngày hoàn tất giao dịch trên hệ thống MBS (sau khi VSD hoàn thành chuyển quyền sở hữu chứng khoán cho MBS).
+Phí áp dụng: 0.45% giá trị chứng khoán lô lẻ thực hiện giao dịch.
+3. Lưu ý:
+MBS mua lại các cổ phiếu lô lẻ theo danh mục thu mua từng giai đoạn. MBS có thể mua lại một phần hoặc toàn bộ khối lượng chứng khoán lô lẻ mà khách hàng đặt bán tùy theo số lượng giao dịch từng giai đoạn.
+MBS không mua lại cổ phiếu lô lẻ MBB, các cổ phiếu của công ty cùng tập đoàn và các cổ phiếu sắp bị hủy niêm yết, cổ phiếu thuộc diện hạn chế giao dịch hoặc các cổ phiếu ngoài danh mục thu mua từng thời kỳ.
+Thời gian hoàn thành xử lý thu mua cổ phiếu lô lẻ dự kiến từ 5 đến 7 ngày làm việc kể từ ngày lệnh được xác định bảo đảm các quy định về lô, thời gian đặt lệnh và hồ sơ .
+Bản công bố rủi ro
+1. Giới thiệu hệ thống giao dịch trực tuyến của MBS
+Công ty CP Chứng khoán MBS (“MBS”) cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho Khách hàng theo Giấy phép được Ủy ban chứng khoán Nhà nước cấp có hiệu lực tại thời điểm cung cấp dịch vụ.
+Hệ thống giao dịch trực tuyến của MBS mang lại sự thuận tiện, linh hoạt, giúp khách hàng thực hiện giao dịch từ xa qua các phương tiện điện thoại, internet và các phương tiện trực tuyến khác một cách chủ động và nhanh chóng qua đó giúp Khách hàng tiết kiệm thời gian và chi phí.
+2. Khuyến cáo những rủi ro có thể phát sinh từ giao dịch trực tuyến
+MBS cam kết cố gắng hết sức trong việc mang lại cho Quý khách hàng dịch vụ tốt nhất và giảm thiểu rủi ro. Tuy nhiên, giao dịch trực tuyến vẫn tiềm ẩn một số rủi ro phát sinh từ thiết bị, đường truyền hoặc bên thứ ba cung cấp dịch vụ ngoài sự kiểm soát của MBS và Khách hàng. Khách hàng cam kết đã đọc và ý thức rõ ràng về những rủi ro có thể phát sinh bao gồm, nhưng không giới hạn:
+Lỗi kỹ thuật phát sinh từ hệ thống phần cứng, phần mềm của MBS không hoạt động; hệ thống gặp sự cố, bị tấn công, bị can thiệp bất hợp pháp hoặc bị nhiễm virut làm ngưng trệ các hoạt động trao đổi thông tin, gây nhầm lẫn, sai sót khi nhận dạn Khách hàng hoặc làm cho việc tiếp nhận, xử lý, thực hiện giao dịch trực tuyến của Khách hàng bị ảnh hưởng;
+Những sự cố và/hoặc nguy cơ ngưng trệ hoạt động của hệ thống mạng do nghẽn đường truyền, đứt đường truyền, dung lượng đường truyền bị hạn chế hoặc những sự cố khách quan khác; đường truyền kết nối từ MBS đến các Sở Giao dịch Chứng khoán bị lỗi, ngừng hoạt động, khiến cho giao dịch của Khách hàng bị chậm thực hiện, không được thực hiện hoặc bị bỏ sót, trùng lặp hay phát sinh lỗi do các nguyên nhân từ phía nhà cung cấp;
+Lệnh giao dịch có thể bị treo, ngừng, trì hoãn hoặc có lỗi dữ liệu;
+Bảng giá chứng khoán và các thông tin chứng khoán khác có thể có lỗi hoặc sai lệch xảy ra trong quá trình giao dịch trực tuyến;
+Thông tin tài khoản, tên truy cập, mật khẩu và/hoặc mã bảo mật của Khách hàng bị tiết lộ hoặc bị bên thứ ba chiếm đoạt/sử dụng bất hợp pháp;
+Các nguyên nhân khách quan như: thiên tai, động đất ảnh hướng đến hệ thống phần cứng;
+Bất kỳ rủi ro nào khác theo quy định của pháp luật có thể phát sinh mà Khách hàng gặp phải trong quá trình giao dịch trực tuyến.
+3. Miễn trừ trách nhiệm
+MBS không chịu trách nhiệm đối với bất kỳ sai sót hoặc tổn thất, thiệt hại (nếu có) của Khách hàng phát sinh và/hoặc liên quan đến những rủi ro trong giao dịch trực tuyến; đồng thời, không chịu trách nhiệm nếu khách hàng để lộ các thông tin bảo mật.
+4. Hỗ trợ:
+Trong trường hợp Quý khách phát hiện người khác sử dụng mật khẩu truy cập và thực hiện các giao dịch trái phép, xin vui lòng thông báo ngay cho MBS qua tổng đài 1900 9088 để Công ty có biện pháp xử lý kịp thời.
+Trân trọng cảm ơn Quý Khách hàng đã tin tưởng lựa chọn dịch vụ Giao dịch trực tuyến tại Công ty cổ phần Chứng khoán MB.
+Biểu giá  dịch vụ 
+1. Biểu phí giao dịch chứng khoán cơ sở
+1.1. Biểu phí cổ phiếu/chứng chỉ quỹ/chứng quyền có bảo đảm qua các kênh giao dịch:
+DỊCH VỤ MBS ONLINE
+Đối tượng khách hàng: Khách hàng chủ động giao dịch - Không có Chuyên viên Môi giới quản lý Tài khoản.
+Phí dịch vụ theo Giá trị giao dịch: 0.08%
+Phí dịch vụ của Khách hàng dịch vụ MBS Online theo chương trình MBS Partner: 0.15%
+Phí dịch vụ MD24 theo Giá trị giao dịch: 0.12%
+Các chính sách ưu đãi khác theo thông báo từng thời kỳ của MBS
+Ghi chú: Các mức phí nêu trên đã bao gồm phí trả Sở.
+
+DỊCH VỤ CÓ BROKER
+Đối tượng khách hàng: KH có Chuyên viên Môi Giới quản lý Tài khoản và chăm sóc 1:1.
+Phí dịch vụ theo Giá trị giao dịch
+
+DỊCH VỤ KHÁC
+Đối tượng khách hàng: KH có bộ phận quản lý và chăm sóc không thuộc các CN/SGD của MBS.
+Phí dịch vụ theo Giá trị giao dịch
+Lệnh đặt qua kênh App MBBank: Phí giao dịch và phí chăm sóc áp dụng theo thông báo của MBS từng thời kỳ
+
+Trong trường hợp khách hàng sử dụng dịch vụ tư vấn chuyên sâu: Áp dụng phí theo thỏa thuận.
+
+1.2. Phí giao dịch Trái phiếu:
+- Phí giao dịch trái phiếu Khách hàng phổ thông: 0,1%/ Tổng giá trị giao dịch/ Tài khoản dịch vụ.
+- Trường hợp có thỏa thuận khác: áp dụng theo biểu từ 0,02%- 0,1%/ Tổng giá trị giao dịch/ Tài khoản dịch vụ.
+- Phí giao dịch trái phiếu cho đối với giao dịch trải nghiệm Nhà đầu tư chuyên nghiệp: 0.2%/Tổng giá trị giao dịch/Tài khoản dịch vụ.
+
+1.3. Phí giao dịch lô lẻ:
+- Bán cổ phiếu lẻ cho MBS: 0.45%/ Tổng giá trị chứng khoán lô lẻ thực hiện giao dịch.
+- Giao dịch cổ phiếu lẻ trực tiếp trên sàn HSX, HNX: áp dụng theo biểu phí giao dịch tại Mục 1.1 – Biểu phí giao dịch chứng khoán cơ sở.
+
+Ghi chú: Mức phí giao dịch chứng khoán áp dụng với Khách hàng tuân theo biểu phí giao dịch chứng khoán tiêu chuẩn hoặc tuân theo mức phí giao dịch áp dụng khác (nếu có)
+3. Biểu phí giao dịch chứng khoán phái sinh
+Xử lý tài sản phong tỏa cầm cố. Mức phí:
+0,3%/ Giá trị giao dịch
+Tối thiểu 100.000 VNĐ
+Xác nhận tình trạng phong tỏa/giải tỏa tài khoản/tài sản cầm cố. Mức phí:
+50.000 VNĐ/ lần, tối đa 3 bản
+Từ bản thứ 4 thu 100.000 VNĐ/ bản
+Giải tỏa chứng khoán: Miễn phí
+
+3.5. Rút chứng khoán
+Mức phí: 100.000 VNĐ/ 1 hồ sơ
+
+3.6. Chuyển khoản chứng khoán theo yêu cầu của Khách hàng
+Áp dụng trong trường hợp Khách hàng không đóng tài khoản, chỉ chuyển khoản chứng khoán sang tài khoản chứng khoán của Khách hàng mở tại CTCK khác.
+
+Mức phí: 1 VNĐ/ 1 chứng khoán/ 1 lần chuyển khoản/ 1 mã (tối đa không quá 1.000.000 VNĐ/ 1 lần/ 1 mã chứng khoán)
+
+3.7. Chuyển nhượng quyền đăng ký mua thêm
+Mức phí:
+Cùng công ty: 50.000 VNĐ/ 1 hồ sơ
+Khác công ty: 100.000 VNĐ/ 1 hồ sơ
+
+4. Biểu phí đóng mở dịch vụ
+Phí mở TK: miễn phí.
+Phí đóng TK nhà đầu tư trong nước: 100.000 VNĐ/ tài khoản.
+Phí đóng TK nhà đầu tư nước ngoài: 1.000.000 VNĐ/ tài khoản.
+Phí chuyển chứng khoán khi đóng (nếu còn trong TK): 5 VNĐ/ 10 cổ phiếu.
+
+5. Biểu phí tra cứu thông tin tài khoản
+5.1. Tại quầy
+Sao kê giao dịch tiền
+Từ 1 đến 2 năm kể từ ngày in sao kê.
+30.000 VNĐ/lần
+Tối đa 2 bản. Từ bản thứ 3 thu 5.000 VNĐ/bản
+
+Trên 2 năm kể từ ngày in sao kê.
+50.000 VNĐ/lần
+Tối đa 2 bản. Từ bản thứ 3 thu 5.000 VNĐ/bản
+
+Sao kê giao dịch chứng khoán
+Từ 1 đến 2 năm kể từ ngày in sao kê.
+30.000 VNĐ/lần
+Tối đa 2 bản. Từ bản thứ 3 thu 5.000 VNĐ/bản
+
+Trên 2 năm kể từ ngày in sao kê.
+50.000 VNĐ/lần
+Tối đa 2 bản. Từ bản thứ 3 thu 5.000 VNĐ/bản
+
+Gửi sao kê bằng thư đảm bảo cho Khách hàng
+Gửi khi Khách hàng có yêu cầu, bao gồm:
+Sao kê giao dịch tiền và giao dịch chứng khoán.
+10.000 VNĐ/lần
+Mức phí tối thiểu. Bao gồm: phí sao kê + bưu phí
+
+Xác nhận số dư tài khoản theo yêu cầu Khách hàng
+Xác nhận do Khách hàng lập
+(Không phân biệt tiếng Việt/Tiếng Anh).
+100.000 VNĐ/lần
+Tối đa 3 bản. Từ bản thứ 4 thu 20.000 VNĐ/bản
+
+Xác nhận do MBS lập
+(Không phân biệt tiếng Việt/Tiếng Anh).
+50.000 VNĐ/lần
+Tối đa 3 bản. Từ bản thứ 4 thu 10.000 VNĐ/bản
+
+Phí sao lưu chứng từ
+
+Sao lưu chứng từ trong 15 ngày kể từ ngày giao dịch
+Không thu phí.
+Sao lưu chứng từ từ 15 ngày đến 3 tháng kể từ ngày giao dịch
+Mức phí: 10.000 VNĐ/chứng từ.
+Sao lưu chứng từ từ 3 tháng đến 1 năm kể từ ngày giao dịch
+Mức phí: 30.000 VNĐ/chứng từ.
+Sao lưu chứng từ từ 1 đến 3 năm kể từ ngày giao dịch
+Mức phí: 50.000 VNĐ/chứng từ.
+Sao lưu chứng từ từ 3 năm trở lên kể từ ngày giao dịch
+Mức phí: 70.000 VNĐ/chứng từ.
+Phí xác nhận nhà đầu tư chuyên nghiệp (không áp dụng đối với trường hợp xác nhận theo hợp đồng với Tổ chức phát hành hoặc để mua trái phiếu do MBS phân phối): 150.000 đ/hồ sơ.
+
+5.2. Qua contact center
+Phí đăng ký dịch vụ: Miễn phí.
+
+Cước gọi vào tổng đài do nhà mạng thu: 1.000 VNĐ/phút (không phân biệt đầu số điện thoại gọi vào).
+
+6. Biểu phí chuyển khoản tiền
+6.1. Chuyển khoản nội bộ
+Miễn phí với mọi giao dịch chuyển khoản
+
+6.2. Chuyển khoản ra ngân hàng
+Ra ngân hàng MB
+Miễn phí với mọi giao dịch chuyển khoản
+
+Ra ngân hàng khác
+MBS thu hộ, làm trung gian thu theo biểu phí của ngân hàng MB/ ngân hàng khác từng thời kỳ.
+
+PHÍ DỊCH VỤ SMS
+MBS cung cấp các gói phí dịch vụ Tin nhắn (SMS) như sau:
+Gói phí SMS1 (Cơ bản): Phí 8.800 VNĐ/tháng/tài khoản
+Các thông báo được gửi qua SMS tới số điện thoại đã đăng ký của Quý khách bao gồm:
+
+Thông báo nộp, rút, chuyển khoản tiền
+Thông báo quyền cổ tức về tài khoản
+Gói phí SMS2 (Nâng cao): Phí 33.000 VNĐ/tháng/tài khoản
+Các thông báo được gửi qua SMS tới số điện thoại đã đăng ký của Quý khách bao gồm:
+
+Thông báo rút, nộp, chuyển khoản tiền
+Thông báo quyền cổ tức về tài khoản
+Thông báo số dư tiền đầu ngày
+Thông báo sức mua đầu ngày
+Thông báo số dư chứng khoán đầu ngày
+Thông báo kết quả khớp lệnh cơ sở
+Thông báo kết quả khớp lệnh phái sinh
+Bộ điều khoản và điều kiện
+1. Bộ điều khoản và điều kiện mở Tài khoản giao dịch chứng khoán (TKGDCK)
+Các Điều khoản và Điều kiện Chung sau đây được áp dụng cho tất cả các Tài khoản giao dịch chứng khoán mở tại Công ty Cổ phần Chứng khoán MB (MBS). Theo đó, Khách hàng thừa nhận rằng trước khi ký Phiếu yêu cầu kiêm hợp đồng mở tài khoản và Đăng ký sử dụng dịch vụ giao dịch chứng khoán tại MBS, Khách hàng đã được cung cấp đầy đủ, đã đọc, hiểu rõ, đồng ý tuân thủ và chịu sự ràng buộc của Các Điều khoản và Điều kiện của MBS áp dụng cho tất cả các Chủ tài khoản (và các sửa đổi, bổ sung của Các Điều khoản và Điều kiện này được MBS thực hiện trong từng thời kỳ), bao gồm: Các Điều khoản và Điều kiện Chung, Các Điều khoản và Điều kiện khác liên quan đến Tài khoản giao dịch chứng khoán và các dịch vụ cụ thể do MBS cung cấp. Khách hàng đồng ý rằng, Phiếu yêu cầu kiêm hợp đồng mở tài khoản và Đăng ký sử dụng dịch vụ giao dịch chứng khoán, Các Điều khoản và Điều kiện cùng với các văn bản khác nhằm mở, sử dụng tài khoản và sử dụng dịch vụ do MBS cung cấp sẽ có hiệu lực ràng buộc như một hợp đồng giữa Khách hàng và MBS.
+Xem Bộ điều khoản và điều kiện chi tiết tại đây.
+2. Điều khoản và điều kiện về Giao dịch chứng khoán phái sinh (GDCKPS)
+Điều khoản và Điều kiện về giao dịch chứng khoán phái sinh sau đây được áp dụng cho tất cả các Khách hàng mở Tài khoản phái sinh tại Công ty Cổ phần Chứng khoán MB (MBS). Theo đó, Khách hàng xác nhận rằng trước khi ký Yêu cầu mở tài khoản kiêm Hợp đồng giao dịch chứng khoán phái sinh tại MBS, Khách hàng đã được cung cấp đầy đủ, đã đọc, hiểu rõ, đồng ý tuân thủ và chịu sự ràng buộc của Điều khoản và điều kiện về giao dịch chứng khoán phái sinh của MBS áp dụng cho tất cả các Chủ tài khoản (và các sửa đổi, bổ sung của Điều khoản và Điều kiện về giao dịch chứng khoán phái sinh này được MBS thực hiện trong từng thời kỳ). Khách hàng đồng ý rằng, Yêu cầu mở tài khoản kiêm Hợp đồng giao dịch chứng khoán phái sinh, Điều khoản và Điều kiện về giao dịch chứng khoán phái sinh cùng với các văn bản khác nhằm mở, sử dụng Tài khoản phái sinh và sử dụng dịch vụ do MBS cung cấp sẽ có hiệu lực ràng buộc như một hợp đồng giữa Khách hàng và MBS.
+Chứng khoán phái sinh
+I. Hợp đồng tương lai (HĐTL) là chứng khoán phái sinh được chuẩn hóa và niêm yết tại các Sở giao dịch; là thỏa thuận mua bán hàng hóa trong hiện tại và được giao dịch vào một ngày xác định trong tương lai.
+Lợi ích của nhà đầu tư khi giao dịch Hợp đồng tương lai
+Hợp đồng tương lai Chỉ số VN30
+Hợp đồng tương lai trên chỉ số VN30 là loại Hợp đồng tương lai có tài sản cơ sở là chỉ số VN30, mô phỏng kỳ vọng giá của chỉ số VN30 tại thời điểm đáo hạn.
+Hợp đồng tương lai chỉ số VN30 giao dịch với 4 mã tương ứng 4 tháng đáo hạn: Tháng hiện tại, tháng kế tiếp, 2 tháng cuối 2 quý gần nhất.
+Chỉ số VN30 được tính dựa trên rổ 30 cổ phiếu có vốn hóa thị trường và tính thanh khoản cao nhất trên sàn HOSE.
+Mẫu Hợp đồng tương lai chỉ số cổ phiếu: Click ở đây để xem chi tiết
+
+Hướng dẫn giao dịch Chứng khoán phái sinh
+1. QUY TRÌNH GIAO DỊCH CHỨNG KHOÁN PHÁI SINH - HỢP ĐỒNG TƯƠNG LAI TẠI MBS
+Bước 1: Mở tài khoản giao dịch chứng khoán phái sinh
++ Nhà đầu tư muốn mở tài khoản phái sinh cần mở tài khoản chứng khoán cơ sở tại MBS.
++ Trường hợp Nhà đầu tư chưa có tài khoản chứng khoán cơ sở tại MBS vui lòng đăng ký mở tài khoản online tại đây.
++ Trường hợp Nhà đầu tư đã có tài khoản chứng khoán cơ sở tại MBS, vui lòng liên hệ trực tiếp Tổng đài 19009088 hoặc gọi điện cho Nhân viên quản lý tài khoản để được hướng dẫn.
+
+Bước 2: Nộp tiền ký quỹ
+Để có thể đặt lệnh giao dịch mua bán trên tài khoản phái sinh, Nhà đầu tư cần nộp tiền vào Tài khoản phái sinh tại MBS và nộp ký quỹ lên Trung tâm lưu ký chứng khoán Việt Nam (VSD) theo hướng dẫn tại đây.
+
+Bước 3: Giao dịch phái sinh
+Nhà đầu tư có thể đặt lệnh mua bán khi đảm bảo điều kiện về ký quỹ qua các kênh giao dịch của MBS:
+
+- Giao dịch qua S24
++ S24 là nền tảng giao dịch chứng khoán được MBS phát triển dựa trên nền tảng web kết nối internet tại địa chỉ http://s24.mbs.com.vn.
++ Khách hàng có thể truy vấn thông tin và thực hiện mọi giao dịch một cách nhanh chóng, bảo mật và hiệu quả.
+
+- Giao dịch qua Contact24
+Để thực hiện giao dịch chứng khoán phái sinh qua điện thoại, khách hàng thực hiện như sau:
++ Bước 1: Gọi điện đến tổng đài 19009088, chọn nhánh 5.
++ Bước 2: Nhập số tài khoản và mật khẩu giao dịch qua điện thoại.
++ Bước 3: Gặp và đưa yêu cầu lệnh đặt cho nhân viên giao dịch.
+- Giao dịch tại sàn
+Khách hàng là chủ tài khoản hoặc người được ủy quyền hợp pháp chỉ cần mang theo CMND đến các điểm giao dịch của MBS để thực hiện giao dịch chứng khoán phái sinh.
+Bước 4: Theo dõi tỷ lệ sử dụng tài sản ký quỹ
++ Tỷ lệ sử dụng tài sản ký quỹ (AR) của tài khoản giao dịch chứng khoán phái sinh của Nhà đầu tư phải đảm bảo tỷ lệ AR duy trì theo chính sách MBS từng thời kỳ.
++ Trường hợp tỷ lệ AR của tài khoản vượt tỷ lệ AR duy trì thì Nhà đầu tư có nghĩa vụ bổ sung tài sản ký quỹ hoặc đóng bớt số lượng vị thế nắm giữ để đảm bảo tỷ lệ AR duy trì theo quy định.
++ Trường hợp Tài khoản giao dịch chứng khoán phái sinh của Nhà đầu tư vi phạm tỷ lệ AR xử lý theo chính sách MBS từng thời kỳ, Nhà đầu tư có nghĩa vụ nộp bổ sung kỹ quỹ hoặc đóng bớt số lượng vị thế nắm giữ ngay khi vi phạm để đảm bảo tỷ lệ AR duy trì theo quy định. MBS thực hiện xử lý vị thế/tài sản ký quỹ trên tài khoản của Nhà đầu tư kể từ ngày làm việc liền sau ngày vi phạm.
+
+Bước 5: Thanh toán nghĩa vụ
++ Tài khoản giao dịch chứng khoán phái sinh của Nhà đầu tư được hạch toán lãi lỗ hàng ngày dựa trên các lệnh giao dịch mở đóng vị thế.
++ Lãi lỗ được tính toán dựa trên chênh lệch giá mua/bán hợp đồng tương lai với giá đóng cửa của hợp đồng tương lai hoặc chênh lệch của giá đóng/mở vị thế.
++ Đối với các hợp đồng tại ngày đáo hạn, lãi/lỗ sẽ được tính toán dựa trên giá đóng cửa của chỉ số cơ sở tại ngày đáo hạn của hợp đồng tương lai.
+
+Trường hợp tài khoản có lãi vị thế, MBS thực hiện hạch toán tiền lãi trên tài khoản Nhà đầu tư. Trường hợp tài khoản có lỗ vị thế, Nhà đầu tư phải nộp tiền hoặc rút tiền ký quỹ vào tài khoản phái sinh để MBS chuyển tiền thanh toán theo quy định của cơ quan quản lý.
+
+2. QUY ĐỊNH GIAO DỊCH
+- Hợp đồng tương lai Chỉ số cổ phiếu VN30: Xem chi tiết tại đây
+Chứng quyền 
+1. CHỨNG QUYỀN CÓ BẢO ĐẢM LÀ GÌ?
+Chứng quyền có bảo đảm là chứng khoán cho phép người sở hữu được QUYỀN mua hoặc bán chứng khoán cơ sở cho tổ chức phát hành chứng quyền đó theo một mức giá đã được xác định trước, tại hoặc trước một thời điểm đã được ấn định.
+
+Các nội dung quan trọng của chứng quyền
+Thông tin cơ bản của một chứng quyền
+Mã chứng khoán cơ sở: là mã cổ phiếu dùng để phát hành chứng quyền
+Ngày đáo hạn: là ngày cuối cùng được thực hiện quyền cho chứng quyền
+Giá thực hiện: là giá nhà đầu tư được phép mua chứng khoán cơ sở khi thực hiện quyền với Chứng quyền
+Tỷ lệ quy đổi: là số lượng chứng quyền yêu cầu để quy đổi ra một (01) chứng khoán cơ sở
+Kiểu chứng quyền: chứng quyền kiểu Châu Âu chỉ cho phép nhà đầu tư thực hiện quyền tại ngày đáo hạn.
+
+3. LỢI ÍCH VÀ RỦI RO KHI GIAO DỊCH CHỨNG QUYỀN CÓ BẢO ĐẢM
+Lợi ích
+Tỷ suất sinh lời cao: Thông qua đòn bẩy tài chính, CW có khả năng tăng hiệu quả (mức sinh lời) đầu tư từ 5 đến 40 lần.
+Phòng ngừa rủi ro: Với mức lỗ được xác định trước là khoản phí mua quyền, CW là công cụ phòng ngừa rủi ro hữu ích khi nhà đầu tư lo ngại bị tác động tiêu cực bởi sự biến động bất lợi của thị trường đến danh mục tài sản của mình.
+Dễ dàng tiếp cận: Nhà đầu tư có thể dễ dàng đăng ký mua CW vào thời điểm tổ chức phát hành chào bán tại thị trường sơ cấp hoặc mua trên thị trường thứ cấp sau khi CW được niêm yết trên SGDCK. Ngoài ra nhà đầu tư không bị hạn chế về tỷ lệ sở hữu trừ việc không được giao dịch ký quỹ đối với CW
+Tính thanh khoản cao: CW luôn được đảm bảo giao dịch và thanh tóan bởi tổ chức phát hành. Không có trường hợp nhà đầu tư không thể bán lại CW đã mua cho công ty chứng khóan đã phát hành ra CW đó.
+
+Rủi ro
+Rủi ro đòn bẩy: Đòn bẩy tài chính khiến cho mức sinh lời cho nhà đầu tư được gia tăng rất mạnh nếu thị trường diễn biến đúng như kỳ vọng của họ. Tuy nhiên, nếu thực tế thị trường không như dự đoán, họ có thể thua lỗ nhiều hơn so với việc đầu tư trên thị trường Chứng khoán Cơ sở, thậm chí NĐT có khả năng mất toàn bộ số vốn đầu tư (số tiền đã bỏ ra để mua CW)
+Rủi ro chứng khoán cơ sở: Những biến động của của chứng khoán cơ sở có thể tạo ra những tác động lớn đến giá của CW. Nếu chứng khoán cơ sở bị tạm dừng giao dịch hoặc hủy niêm yết thì dẫn đến CW cũng bị tạm dừng giao dịch hoặc hủy niêm yết.
+Biến động giá: Giá CW thường xuyên thay đổi và chịu tác động từ nhiều yếu tố như lãi suất, cổ tức, cung-cầu… Điều này khiến cho chênh lệch giá CW giữa các thời điểm mua và bán của NĐT không phải lúc nào cũng tạo ra lợi nhuận.
+Vòng đời giới hạn: Chứng quyền luôn có vòng đời hữu hạn. Do đó vào thời điểm đáo hạn, nhà đầu tư sẽ không được tiếp tục nắm giữ CW như đầu tư cổ phiếu mà sẽ được thanh toán tiền hoặc mất khoản phí mua chứng quyền ban đầu.
+Rủi ro tổ chức phát hành: Rủi ro có thể phát sinh khi tổ chức phát hành bị phá sản hoặc gặp khó khăn về tài chính dẫn đến không thể thực hiện nghĩa vụ thanh toán cho NĐT khi CW đáo hạn hay nhà đầu tư quyết định thực hiện quyền.
+
+4. CÁCH DIỄN GIẢI MÃ CHỨNG QUYỀN
+Ví dụ:
+Mã chứng quyền: CHPG1901
+- C: Chứng quyền mua (Call)
+- HPG: Mã Chứng khoán cơ sở
+- 19: Năm phát hành (2019)
+- 01: Chứng quyền đầu tiên của mã HPG trong năm 2019
+
+PHÂN BIỆT CHỨNG QUYỀN VÀ CÁC SẢN PHẨM CHỨNG KHOÁN KHÁC
+ 	Hợp đồng tương lai	Chứng quyền có bảo đảm	Hợp đồng quyền chọn
+Tổ chức phát hành	Sở Giao dịch Chứng khoán	Tổ chức tài chính	Sở Giao dịch Chứng khoán
+Thị trường giao dịch	Thị trường phái sinh & mở tài khoản mới giao dịch tương lai	Thị trường cơ sở & dùng tài khoản chứng khoán hiện tại để giao dịch	Thị trường chứng khoán phái sinh
+Điều khoản sản phẩm	Do sở GDCK ban hành & chuẩn hóa những điều khoản	Do tổ chức phát hành quy định, điều khoản sẽ khác nhau với từng sản phẩm phát hành	Do sở GDCK ban hành & chuẩn hóa những điều khoản
+Khối lượng niêm yết	Số lượng hợp đồng giao dịch phụ thuộc vào cung cầu	Số lượng khi phát hành được quy định trong thời gian cụ thể	Số lượng hợp đồng giao dịch phụ thuộc vào cung cầu
+Bán khống	Có thể mở vị thế bán hợp đồng tương lai khi chưa nắm giữ	Không thể bán chứng quyền khi chưa nắm giữ	Có thể bán quyền chọn mà không cần phải có nắm giữ
+
+Dịch vụ điện tử 
+I. MBS Mobile - Giao dịch chứng khoán qua điện thoại
+MBS Mobile App là kênh giao dịch trực tuyến trên điện thoại thông minh với các hệ điều hành thông dụng như iOS và Android, giúp khách hàng có thể giao dịch mọi lúc, mọi nơi.
+
+Chỉ cần download ứng dụng, không cần đăng nhập, khách hàng có thể tra cứu thông tin thị trường, cổ phiếu quan tâm. Sau khi đăng nhập Khách hàng có thể thực hiện được mọi giao dịch một cách thuận lợi và nhanh chóng, với các chức năng hỗ trợ như:
+
+Theo dõi thông tin thị trường;
+Theo dõi thông tin chi tiết các mã cổ phiếu quan tâm;
+Giao dịch mua bán nhanh chóng, chính xác;
+Hủy sửa lệnh giao dịch thuận tiện;
+Chuyển tiền nội bộ giữa các tài khoản trong MBS;
+Chuyển tiền trực tuyến 24/7 sang tài khoản ngân hàng MB;
+Chuyển tiền trực tuyến sang tài khoản ngân hàng khác;
+Ứng trước tiền bán chứng khoán;
+Sao kê tiền, chứng khoán;
+Quản lý danh mục đầu tư tài khoản;
+Theo dõi thông tin số dư.
+Tải MBS Mobile App: Bấm vào đây
+
+Hướng dẫn sử dụng MBS Mobile App: Click vào đây để xem chi tiết 
+
+II. S24 - Nền tảng giao dịch vượt trội
+S24 - là hệ thống giao dịch trực tuyến hoàn toàn mới mang lại những trải nghiệm ưu việt cho Quý khách hàng tại địa chỉ https://S24.mbs.com.vn sử dụng trên máy tính có kết nối internet.
+
+Quý Khách hàng có thể đăng nhập S24 để kiểm nghiệm những tính năng và ưu điểm của S24 như dưới đây:
+
+• Tốc độ xử lý nhanh hơn 10% so với trung bình;
+• Dữ liệu thị trường, thống kê chuyên sâu;
+• Bộ lọc cổ phiếu hiệu quả;
+• Tích hợp cơ sở & phái sinh;
+• Tùy chỉnh thiết kế màn hình theo mong muốn;
+• Phím tắt hỗ trợ giao dịch nhanh, tùy ý thiết lập;
+• Xác thực SMS OTP/ Smart OTP, QR Code.
+
+Với nền tảng giao dịch S24, Quý khách có thể tùy ý lựa chọn và sắp xếp bằng cách kéo thả những khung phân tích số liệu, thị trường... vào từng vị trí trên màn hình giao dịch hoàn toàn theo thói quen và sở thích của riêng mình. Đồng thời tùy ý cài đặt, thiết lập các công cụ hỗ trợ giao dịch như phím tắt, cảnh báo giá, cảnh báo chỉ số…
+
+Hướng dẫn sử dụng S24: Click vào đây để xem chi tiết
+
+III. Plus24 - Bảng giá giao dịch
+Plus24 - là Bảng giá giao dịch thế hệ mới hỗ trợ Quý khách hàng mọi thông tin cần thiết phục vụ việc giao dịch chứng khoán tại địa chỉ https://plus24.mbs.com.vn, với những tiện ích ưu việt như:
+
+Tốc độ kết nối và tải dữ liệu nhanh nhất hiện nay;
+Phân tích cổ phiếu chuyên sâu;
+Định giá nhanh cổ phiếu;
+Bộ lọc cổ phiếu mạnh mẽ, đa dạng chỉ tiêu;
+Dữ liệu phái sinh nâng cao;
+Tổng quan thị trường theo dữ liệu thời gian thực;
+Tích hợp giao dịch tại Bảng giá;
+Với Bảng giá giao dịch thế hệ mới Plus24, Nhà đầu tư chuyên nghiệp hay Nhà đầu tư mới gia nhập thị trường đều có thể tìm được sự hỗ trợ kịp thời, chính xác và hiệu quả từ các thông tin hữu ích, tối ưu chất lượng giao dịch.
+
+Để sử dụng đầy đủ các tính năng trên hệ thống Plus24, Quý Khách hàng mở tài khoản giao dịch chứng khoán tại MBS và đăng nhập vào https://plus24.mbs.com.vn với Account và Password là số tài khoản và mật khẩu giao dịch chứng khoán tại MBS.
+
+Việc triển khai hệ thống Bảng giá giao dịch thế hệ mới Plus24, MBS ngày càng khẳng định vị thế là một công ty chứng khoán luôn coi trọng việc ứng dụng công nghệ mới vào các sản phẩm và dịch vụ nhằm hỗ trợ tốt nhất cho khách hàng trong việc đưa ra các quyết định đầu tư đúng lúc, kịp thời và hiệu quả.
+
+Hướng dẫn sử dụng Plus24: Click vào đây để xem chi tiết
+
+IV. Data24 - Dữ liệu thời gian thực
+Data24 là ứng dụng cung cấp dữ liệu giao dịch trực tuyến của cổ phiếu cơ sở, hợp đồng tương lai và các chỉ số thị trường chứng khoán Việt Nam sử dụng cho các phần mềm phân tích kỹ thuật như Amibroker, Metastock
+D - Day trade: Dữ liệu liên tục cập nhật trong ngày (Intraday)
+A - Accurate: Dữ liệu chính xác, đầy đủ gồm chỉ số phái sinh và cổ phiếu cơ sở
+T - Training: Đào tạo chiến lược áp dụng từ các chuyên gia phân tích của MBS
+A - Available: Miễn phí sử dụng sản phẩm 
+24 - 24/24: Download và sử dụng dữ liệu phân tích 24h hàng ngày
+Hướng dẫn cài đặt Data24 và cập nhật dữ liệu cho Amibroker: Click vào đây để xem chi tiết
+Video hướng dẫn cài đặt Data24: Click vào đây để xem chi tiết
+Một số câu hỏi thường gặp khi sử dụng Data24: Click vào đây để xem chi tiết
+Bản cài đặt Data24 Click vào đây để xem chi tiết
+ 
+Sản phẩm Data24 đang trong quá trình triển khai thử nghiệm, Quý khách vui lòng liên hệ Nhân viên chăm sóc tài khoản để được hướng dẫn sử dụng sản phẩm.
+V. Open24 - Dịch vụ mở tài khoản trực tuyến
+Open24 là dịch vụ mở tài khoản trực tuyến áp dụng cho khách hàng cá nhân trong nước muốn mở tài khoản trực tuyến tại MBS. Khách hàng dễ dàng hoàn tất việc khai báo thông tin online chỉ trong 1 bước thông qua trang web Open24 tại địa chỉ: http://open24.mbs.com.vn/Presentation/Welcome.aspx. Sau khi hoàn tất việc khai báo thông tin mở tài khoản, khách hàng in 02 bộ hồ sơ và mang tới các Điểm giao dịch trực tuyến hoặc Chi nhánh/Phòng giao dịch của MBS để được kích hoạt tài khoản.
+
+Với Open24, khách hàng có thể:
+Mở tài khoản giao dịch chứng khoán trực tuyến;
+Giao dịch chứng khoán, giao dịch tiền, quản lý tài khoản trực tuyến qua Stock24;
+Hưởng phí giao dịch trực tuyến ưu đãi;
+Hưởng dịch vụ chăm sóc khách hàng chuyên nghiệp.
+VI. Contact24 - Tổng đài tra cứu & giao dịch chứng khoán qua điện thoại
+Contact24 là hệ thống tổng đài tra cứu thông tin tự động và giao dịch qua điện thoại của MBS, chỉ một đầu số riêng biệt cho phép khách hàng lựa chọn nhiều tính năng, dịch vụ khác nhau. Đầu số tổng đài: 19009088. Sử dụng Contact24, khách hàng có thể:
+
+Tra cứu thông tin tài khoản tự động: số dư, kết quả khớp lệnh trong ngày, thông báo và thông tin thực hiện quyền;
+Đổi mật khẩu Contact24 tự động;
+Gặp nhân viên đặt lệnh và tra cứu thông tin tài khoản;
+Yêu cầu hỗ trợ: lấy lại mật khẩu Contact24 tự động, hỗ trợ S24, hỗ trợ thông tin khác.
+Ưu điểm
+
+Xác thực nhanh chóng, tính bảo mật cao: Khách hàng có thể lấy lại mật khẩu Contact24 tự động và nhận qua tin nhắn SMS;
+Kênh nhận thông tin đa dạng: Khách hàng có thể nhận thông tin tra cứu tự động bằng hình thức nghe lời thoại hoặc nhận qua tin nhắn SMS;
+Đặt lệnh, tra cứu và giao dịch cho nhiều tài khoản:
+•  Tài khoản thường và các tài khoản dịch vụ (tài khoản tiểu khoản).
+•  Tài khoản được ủy quyền.
+Để biết thêm chi tiết khách hàng vui lòng liên hệ Trung tâm Chăm sóc Khách hàng MBS
+
+Hệ thống Tổng đài: 1900 9088
+Hotline: 024 3755 6688
+Email: cskh@mbs.com.vn
+Facebook: Chứng khoán MB
+Website: https://mbs.com.vn
+Hướng dẫn sử dụng Contact24: Click vào đây để xem chi tiết
+
+VII. SMS24 - Tra cứu thông tin giao dịch qua tin nhắn SMS
+MBS cung cấp dịch vụ thông báo kết quả khớp lệnh, tra cứu kết quả khớp lệnh và tra cứu số dư tài khoản, tra cứu thông tin thị trường và thông tin chứng khoán qua tin nhắn SMS.
+Để biết thêm thông tin chi tiết Quý khách vui lòng xem Hướng dẫn sử dụng.
+Hướng dẫn sử dụng SMS: Click vào đây để xem chi tiết
+
+Dịch vụ kinh doanh số MBS 
+A. NỀN TẢNG GIAO DỊCH
+I. Nền tảng giao dịch và quản lý tài sản cá nhân trực tuyến
+
+Bảng giá giao dịch Cơ sở & Phái sinh dành cho nhà đầu tư chuyên nghiệp với công cụ lọc cổ phiếu mạnh nhất thị trường. Quản lý tất cả các tài sản giao dịch trên một nền tảng Plus24.
+Giao dịch đa tài sản (cổ phiếu và các sản phẩm tối ưu tiền nhàn rỗi như trái phiếu, hợp tác kinh doanh) hoàn toàn online trên S24 của MBS.
+Giao dịch chứng khoán cơ sở và phái sinh trên điện thoại.
+
+II. Giao dịch hiệu quả với chi phí cạnh tranh
+
+Phí giao dịch cổ phiếu cơ sở chỉ 0,08%
+Miễn phí chuyển tiền hai chiều với MBBank
+Nâng cao hiệu quả giao dịch với các sản phẩm hỗ trợ tài chính đa dạng như Margin với lãi suất hấp dẫn, M-Credit ứng trước sức mua và các sản phẩm tài chính khác
+Tối ưu hóa tiền nhàn rỗi với sản phẩm Abond và Hợp tác kinh doanh
+SẢN PHẨM TƯ VẤN
+Sản phẩm tư vấn hàng đầu 
+
+Khách hàng MBS Online được tư vấn trực tiếp từ đội ngũ chuyên gia hàng đầu của Khối Nghiên Cứu thông qua hệ thống sản phẩm hoàn toàn Miễn Phí như:
+
+Danh mục đầu tư chủ động MBS Flagship
+Hệ thống tìm kiếm cổ phiếu định lượng Robo Advisor
+Bản tin tư vấn liên tục được cập nhật trong ngày
+Hệ thống báo cáo phân tích ngành và cổ phiếu hàng đầu thị trường
+Chủ động tìm kiếm cổ phiếu thông qua bảng giá thông minh Plus24 với các công cụ lọc cổ phiếu mạnh mẽ và hiệu quả
+Tham gia các cộng đồng nhà đầu tư dành riêng cho khách hàng giao dịch trên MBS Online trên fanpage, nhóm Zalo và tương tác trực tiếp với chuyên gia tư vấn.
+
+1. Danh mục mẫu MBS Flagship
+Danh mục mẫu cổ phiếu theo chiến lược ngắn hạn.
+Danh mục đồng thời được tư vấn real time thông qua phần livestream tương tác với chuyên gia hàng đầu của Khối Nghiên Cứu trên fanpage MBS Online.
+
+1.1. Ý tưởng đầu tư
+Dựa trên nền tảng cơ bản và kỹ thuật cũng như các yếu tố thúc đẩy tăng giá của ngành và cổ phiếu, chuyên gia phân tích lựa chọn những cổ phiếu có tiềm năng tăng trưởng nhất trong tuần giao dịch. Danh mục cổ phiếu sẽ được đánh giá lại hàng tuần và sẽ được tiếp tục khuyến nghị nếu vẫn chưa chạm giá mục tiêu.
+Danh mục phù hợp với nhà đầu tư có nhu cầu đầu tư ngắn hạn (nắm giữ từ 1 tuần tới 1 tháng) và muốn tối ưu hiệu quả đầu tư ngắn hạn thông qua chọn lựa cổ phiếu đang có xu thế.
+
+1.2. Rủi ro sản phẩm:
+Đầu tư chứng khoán là một loại hình đầu tư rủi ro đòi hỏi nhà đầu tư có kinh nghiệm đầu tư và thời gian bám vững thị trường. Danh mục được các chuyên gia phân tích lựa chọn kỹ càng dựa trên các yếu tố về cơ bản và kỹ thuạt tuy nhiên đầu tư chứng khoán trong thời gian ngắn vẫn có rủi ro khó dự đoán và giá cổ phiếu biến động theo cung – cầu và tâm lý của thị trường, khiến khoản đầu tư có thể đối diện với những rủi ro lỗ tạm thời. Do đó, danh mục có tính chất tham khảo và nhà đầu tư luôn khi đầu tư luôn cần thời gian đủ dài, để giảm thiểu rủi ro biến động ngắn hạn do cung cầu và doanh nghiệp có điều kiện biểu hiện tiềm năng giá trị rõ ràng hơn.
+Đăng ký sản phẩm
+Toàn bộ khách hàng theo dõi kênh MBS Online có thể theo dõi phần livestream vào sáng thứ hai hàng tuần.
+Miễn phí đối với Khách hàng đăng ký chăm sóc qua Kênh MBS online. Khách hàng nhận danh mục tư vấn thông qua phương thức phù hợp với nhu cầu (nhóm Zalo, nhóm Facebook hoặc thư điện tử)
+
+2. Bản tin tư vấn cập nhật liên tục trong phiên:
+Hệ thống bản tin tư vấn liên tục trong ngày trên các kênh multimedia (Facebook, Zalo) sẽ hỗ trợ khách hàng trong việc nhận định xu thế thị trường và tìm kiếm cổ phiếu đột biến hàng ngày.
+
+2.1. Ý tưởng đầu tư
+Dựa trên thông tin thời gian thực thị trường thế giới và Việt Nam, chuyên gia tư vấn cập nhật dự đoán về xu thế thị trường liên tục trong ngày thông qua hệ thống bản tin:
+Morning Brief: Tư vấn xu thế thị trường và khuyến nghị cổ phiếu đột biến trong ngày
+Mid day Note: Tư vấn ngắn cập nhật diễn biến phiên giao dịch sáng và dự báo xu thế phiên chiều
+Bản tin cuối ngày: Hệ thống bản tin thị trường cơ sở, bản tin chứng quyền và bản tin phái sinh phục vụ cho các nhóm khách hàng có nhu cầu riêng biệt, đăng tải trên website hoặc gửi vào hòm thư điện tử của khách hàng đăng ký theo dõi bản tin.
+Hệ thống bản tin hằng ngày phù hợp với nhà đầu tư cần các thông tin nhanh gọn, cô đọng về thị trường để có thể có chiến lược giao dịch phù hợp trong ngày. Các cổ phiếu lựa chọn hàng ngày là các cổ phiếu đang có tích lũy tốt về kỹ thuật được lựa chọn bởi đội ngũ PTKT của Khối nghiên cứu và được khuyến nghị giao dịch từ T+ 5 đến T+ 10.
+
+2.2. Rủi ro sản phẩm:
+Đầu tư chứng khoán là một loại hình đầu tư rủi ro đòi hỏi nhà đầu tư có kinh nghiệm đầu tư và thời gian bám vững thị trường. Danh mục được các chuyên gia phân tích lựa chọn kỹ càng dựa trên các yếu tố về cơ bản và kỹ thuạt tuy nhiên đầu tư chứng khoán trong thời gian ngắn vẫn có rủi ro khó dự đoán và giá cổ phiếu biến động theo cung – cầu và tâm lý của thị trường, khiến khoản đầu tư có thể đối diện với những rủi ro lỗ tạm thời. Do đó, danh mục có tính chất tham khảo và nhà đầu tư luôn cần thời gian đủ dài, để giảm thiểu rủi ro biến động ngắn hạn do cung cầu và doanh nghiệp có điều kiện biểu hiện tiềm năng giá trị rõ ràng hơn.
+Đăng ký sản phẩm
+Khách hàng đăng ký chăm sóc qua Kênh MBS online nhận tư vấn khi đăng ký qua các kênh multimedia là nhóm zalo & nhóm facebook (không gửi qua hòm thư điện tử)
+
+
+3. Robo Advisor – Hệ thống tư vấn Robo được kiểm định
+Hệ thống Robo Advisor lựa chọn cổ phiếu phù hợp cho mục đích giao dịch ngắn hạn dựa trên các mô hình định lượng tìm kiếm cổ phiếu đã được kiểm chứng trên thế giới và tại thị trường Việt Nam. MBS sẽ liên tục cập nhật các mô hình tìm kiếm cổ phiếu mới để đáp ứng nhu cầu đầu tư khác nhau. Quyết định Mua / Bán cuối cùng tùy thuộc vào khẩu vị rủi ro của nhà đầu tư.
+
+4. MBS Power Rank
+Là phương pháp định giá được phát triển bởi MBS với mong muốn tìm những công ty vượt trội trong ngành theo 5 khía cạnh chính:
+
+Quy mô: Chỉ tiêu này bao gồm các chỉ tiêu chính nhằm xác định quy mô một công ty tương đối với ngành như quy mô vốn, doanh thu, tổng tài sản, …
+Thanh khoản: Chỉ tiêu này bao gồm các chỉ tiêu chính nhằm đánh giá khả năng thanh khoản dùng các chỉ tiêu như chỉ số thanh toán nhanh, chỉ số thanh toán hiện thời, …
+Hiệu quả hoạt động: Chỉ tiêu này gồm các chỉ tiêu nhằm đánh giá hiệu quả hoạt động của công ty tương đối so với các công ty trong ngành như ROE, ROA, vòng quay tổng tài sản, …
+Cơ cấu vốn: Chỉ tiêu này xem xét sự lành mạnh trong việc sử dụng vốn chủ sở hữu cũng như đòn bẩy dùng các chỉ tiêu như tổng nợ / tổng vốn chủ sở hữu, …
+Định giá: Chỉ tiêu này đánh giá mức độ “rẻ” tương đối của giá cổ phiếu theo các chỉ tiêu nổi trội như P/E, P/B và phương pháp định giá chuyên gia của MBS.
+Mô tả MBS Power Rank
+
+Các chỉ tiêu trên được đánh giá cho tất cả công ty trong ngành theo thang điểm từ 1-10. Bên cạnh đánh giá công ty, MBS Power Rank còn đánh giá và chấm điểm tình trạng kinh tế vĩ mô hiện tại cũng như ngành hoạt động của công ty để đưa ra điểm số và khuyến nghị tương ứng.
+Ý tưởng đầu tư
+
+MBS Power Rank phù hợp với những nhà đầu tư giá trị - tăng trưởng muốn tìm kiếm những cổ phiếu đang có sự cải thiện mạnh về hoạt động cốt lõi nhưng định giá vẫn ở mức thấp so với ngành.
+Danh mục cập nhật hàng tuần top 2% cổ phiếu có điểm cao nhất. Khuyến nghị nhà đầu tư nắm giữ cổ phiếu từ 1 tháng trở lên với mức cắt lỗ là 10%/cổ phiếu.
+
+B. CHĂM SÓC KHÁCH HÀNG
+Khách hàng được hỗ trợ giao dịch và tư vấn thông qua đội ngũ Chăm sóc khách hàng kênh số MBS Online qua các phương thức:
+
+Tổng đài: 1900 9088 nhánh số 4
+Nhóm Zalo
+Facebook Messenger và trang tư vấn MBS Online.
+Góp ý và liên hệ trực tiếp trên nền tảng giao dịch Plus24
+Thông tin được đội ngũ CSKH tiếp nhận và xử lý real time trong giờ giao dịch.
+
+C. ĐĂNG KÝ TRỰC TUYẾN
+Khách hàng có nhu cầu sử dụng dịch vụ chăm sóc kinh doanh số MBS Online đăng ký như sau:
+- Nhà đầu tư đã mở tài khoản tại MBS: Khách hàng đăng nhập vào S24 ->chọn mục Dịch vụ chăm sóc  trên trang S24 -> lựa chọn phần “Dịch vụ quản lý tài khoản” 
+
+- Nhà đầu tư chưa mở tài khoản tại MBS
+
+Mở tài khoản tại Open24 hoặc tải ứng dụng MBS Mobile và lựa chọn gói dịch vụ MBS Online
+Mở tài khoản qua App MBBank
+Nhà đầu tư bấm vào đây để đăng ký Mở tài khoản hoặc liên hệ số Tổng đài 1900 9088 nhánh số 4 để được hỗ trợ.
+
+D. CÂU HỎI THƯỜNG GẶP
+1. Dịch vụ MBS Online (Không có Môi giới chăm sóc) là gì?
+MBS Online là dịch vụ được thiết kế dành cho nhóm Khách hàng có nhu cầu tự doanh. Nền tảng MBS Online thiết kế nhiều phương tiện cho phép Khách hàng tra cứu thông tin, thị trường và chủ động quyết định đặt lệnh giao dịch ở bất cứ nơi đâu, bất cứ lúc nào theo nhu cầu riêng của bản thân.
+Tài khoản bảo mật giao dịch MBS Online được thiết kế dành cho các nhà đầu tư độc lập muốn tự chủ động đầu tư và bảo mật thông tin tài khoản giao dịch. Khách hàng lựa chọn dịch vụ này được quyền truy cập toàn bộ nền tảng giao dịch trực tuyến và các phương tiện hỗ trợ giao dịch để lọc dữ liệu và tri thức đầu tư chứng khoán với mức phí cạnh tranh nhất thị trường.
+2. Phí dịch vụ MBS Online như thế nào? Có lợi gì khi tôi không có môi giới chăm sóc?
+Dưới đây là bảng phí dịch vụ của MBS Online so với các kênh khác, vô cùng cạnh tranh giúp các nhà đầu tư tiết kiệm được nhiều hơn phí giao dịch hàng tháng.
+
+Với mức chi phí cạnh tranh trên, Quý nhà đầu tư vẫn sẽ được hưởng đầy đủ các tiện ích hỗ trợ như sản phẩm tư vấn cập nhật và chuyên biệt và dịch vụ chăm sóc khách hàng từ kênh giao dịch số MBS online.
+3. Khi chọn dịch vụ cơ bản (Không có Môi giới chăm sóc), khi cần tư vấn tôi sẽ liên lạc với ai và như thế nào?
+Các nhà đầu tư tự doanh sẽ được chăm sóc bởi đội ngũ riêng của MBS Online qua đa kênh như room Zalo, Group Facebook, Fanpage Facebook, Email, điện thoại… để cập nhập nhanh nhất và chính xác nhất các thông tin của thị trường.
+Tổng đài MBS Online: 1900 9088 nhánh số 4 dành riêng cho khách hàng Kinh doanh số
+Quý nhà đầu tư hãy LIKE Fanpage của chúng tôi tại link: https://www.facebook.com/CKMBS.Online
+Tham gia group Cộng đồng các nhà đầu tư MBS tại link: https://www.facebook.com/groups/MBS.KH.Online/
+Tham gia Zoom Zalo Cộng đồng nhà Đầu Tư MBS tại link: https://zalo.me/g/mvkdau212 
+
+4. MBS Power Rank là gì? Nguyên tắc hoạt động và lợi ích mang lại cho Nhà đầu tư?
+MBS Power Rank là phương pháp định giá được phát triển bởi MBS với ý tưởng đầu tư là tìm những công ty vượt trội trong ngành theo 5 khía cạnh chính:
+
+- Quy mô: Chỉ tiêu này bao gồm các chỉ tiêu chính nhằm xác định quy mô một công ty tương đối với ngành như quy mô vốn, doanh thu, tổng tài sản …
+- Thanh khoản: Chỉ tiêu này bao gồm các chỉ tiêu chính nhằm đánh giá khả năng thanh khoản dùng các chỉ tiêu như chỉ số thanh toán nhanh, chỉ số thanh toán hiện thời, …
+- Hiệu quả hoạt động: Chỉ tiêu này gồm các chỉ tiêu nhằm đánh giá hiệu quả hoạt động của công ty tương đối so với các công ty trong ngành như ROE, ROA, vòng quay tổng tài sản, …
+- Cơ cấu vốn: Chỉ tiêu này xem xét sự lành mạnh trong việc sử dụng vốn chủ sở hữu cũng như đòn bẩy dùng các chỉ tiêu như tổng nợ / tổng vốn chủ sở hữu, …
+- Định giá: Chỉ tiêu này đánh giá mức độ “rẻ” tương đối của giá cổ phiếu theo các chỉ tiêu nổi trội như P/E, P/B và phương pháp định giá chuyên gia của MBS.
+Các chỉ tiêu trên được đánh giá cho tất cả công ty trong ngành theo thang điểm từ 1-10. Bên cạnh đánh giá công ty, MBS Power Rank còn đánh giá và chấm điểm tình trạng kinh tế vĩ mô hiện tại cũng như ngành hoạt động của công ty để đưa ra điểm số và khuyến nghị tương ứng.
+Danh mục cập nhật hàng tuần top 2% cổ phiếu có điểm cao nhất. Khuyến nghị nhà đầu tư nắm giữ cổ phiếu từ 1 tháng trở lên với mức cắt lỗ là 10%/cổ phiếu.
+
+5. Robo Advisor là gì?
+Hệ thống Robo Advisor lựa chọn cổ phiếu phù hợp cho mục đích giao dịch ngắn hạn dựa trên các mô hình định lượng tìm kiếm cổ phiếu đã được kiểm chứng trên thế giới và tại thị trường Việt Nam. MBS sẽ liên tục cập nhật các mô hình tìm kiếm cổ phiếu mới để đáp ứng nhu cầu đầu tư khác nhau. Quyết định Mua / Bán cuối cùng tùy thuộc vào khẩu vị rủi ro của nhà đầu tư. Gồm có 2 công cụ là Power Rank và CANSLIM.
+
+6. Làm thế nào để biết tôi đang được dịch vụ nào chăm sóc và chuyển dịch vụ sang MBS Online?
+Quý nhà đầu tư đăng nhập vào tài khoản và thực hiện theo hướng dẫn: Khách hàng đăng nhập vào S24 ->chọn mục Dịch vụ chăm sóc  trên trang S24 -> lựa chọn phần “Dịch vụ quản lý tài khoản” 
+
+Hỗ trợ tài chinhw  
+Với nền tảng tài chính vững chắc và được sự hỗ trợ mạnh mẽ từ Ngân hàng MB, MBS luôn đáp ứng tốt nhất nhu cầu kinh doanh của đối tác và khách hàng bằng các dịch vụ hỗ trợ tài chính đa dạng. MBS đã xây dựng được một mạng lưới quan hệ với các đối tác cung cấp vốn để hỗ trợ tài chính cho các khách hàng có nhu cầu đầu tư chứng khoán.
+
+Dịch vụ hỗ trợ tài chính của MBS bao gồm:
+
+Ứng trước tiền bán;
+Sức mua ứng trước;
+Giao dịch ký quỹ (Margin);
+Danh mục Margin hiện hành: Click vào đây để xem chi tiết
+Danh mục Margin dự kiến hàng quý: Click vào đây để xem chi tiết
+Biểu lãi suất dịch vụ tài chính: Click vào đây để xem chi tiết
+Chính sách dịch vụ Margin: Click vào đây để xem chi tiết
+
+
+1. ỨNG TRƯỚC TIỀN BÁN
+Để tối ưu hóa nhu cầu sử dụng vốn của khách hàng, Dịch vụ ứng trước tiền bán giúp khách hàng được nhận tiền bán ngay khi sử dụng dịch vụ mà không phải chờ đợi tiền bán về theo quy định.
+Phương thức đăng ký/sử dụng dịch vụ:
+Trực tiếp tại quầy giao dịch
+Giao dịch trực tuyến
+Khách hàng có thể ứng trước một phần hoặc toàn bộ số tiền bán
+Phí ứng trước: do MBS quy định từng thời kỳ, mức phí tối thiểu là 50.000 VNĐ/lần ứng trước. Xem chi tiết tại Biểu lãi suất dịch vụ tài chính.
+Hoàn trả tiền ứng trước: MBS sẽ tự động trích số tiền đã ứng của Khách hàng và phí ứng trước từ TKGDCK của khách hàng khi tiền bán về tài khoản (T+2).
+Thời gian thực hiện dịch vụ: Trước 16h hàng ngày hoặc theo thông báo từng thời kỳ của MBS.
+
+2. SỨC MUA ỨNG TRƯỚC
+Để tối ưu hóa giao dịch và quay vòng vốn của khách hàng, sức mua ứng trước là dịch vụ MBS cung cấp trước sức mua để Khách hàng sử dụng được ngay dựa trên tiền bán chưa về.
+Ưu điểm của sản phẩm:
+Sức mua tự động, không cần ứng từng lần
+Đăng ký một lần duy nhất
+Chỉ trả phí dịch vụ nếu lệnh khớp
+Chỉ chịu phí tương ứng một ngày phí dịch vụ UTTB tính trên số tiền SMUT thực tế sử dụng (Xem chi tiết tại Biểu lãi suất dịch vụ tài chính)
+
+3. GIAO DỊCH KÝ QUỸ
+Giao dịch ký quỹ là công cụ sử dụng đòn bẩy trong hoạt động đầu tư của khách hàng. Khách hàng có thể sử dụng một phần vốn vay của MBS để mua các chứng khoán niêm yết nhiều hơn sức mua thông thường
+Ưu điểm của sản phẩm
+Không cần ký hồ sơ mỗi lần vay
+Tự động giải ngân, thu nợ tự động khi tài khoản có tiền
+Đăng ký một lần duy nhất
+Tỷ lệ cho vay cao, danh mục cho vay phong phú
+Sức mua (đòn bẩy) tự động
+Lãi suất dịch vụ: Xem chi tiết tại Biểu lãi suất dịch vụ tài chính
+Mở tài khoản 
+A. Mở tài khoản trực tuyến
+-  Mở tài khoản trực tuyến dành cho Quý Khách hàng cá nhân có quốc tịch Việt Nam đủ điều kiện mở tài khoản giao dịch chứng khoán.
+- Với mong muốn mang lại trải nghiệm tốt nhất cho Khách hàng ngay từ những bước đầu tiên như tìm hiểu thị trường, đăng ký mở tài khoản đến việc giao dịch chứng khoán, sử dụng các dịch vụ tiện ích gia tăng cho công việc đầu tư, MBS xây dựng giải pháp eKYC (Electronics Know Your Customer – Định danh khách hàng điện tử) giúp Khách hàng hoàn tất mọi giao dịch chỉ bằng những thao tác đơn giản trên điện thoại, đơn giản hóa thủ tục hành chính, giấy tờ.
+
+1. Mở tài khoản trực tuyến ứng dụng giải pháp eKYC qua MBS Mobile App:
+Để mở tài khoản chứng khoán và giao dịch trên MBS Mobile App hoàn toàn miễn phí, Quý khách hàng cần chuẩn bị điện thoại có kết nối internet, Chứng minh thư/Căn cước công dân/Chứng minh sĩ quan còn hiệu lực và làm theo các bước hướng dẫn dưới đây:
++ Bước 1: Khách hàng tải MBS Mobile App về máy điện thoại như sau:
+- Quét mã QR Code dưới đây:
+- Tải ứng dụng theo đường link: tại đây
++ Bước 2: Khách hàng đăng ký thông tin cá nhân, upload ảnh CMT/CCCD/CMSQ
++ Bước 3: Đăng ký mở tài khoản thành công, Quý khách có thể đăng nhập vào App để tra cứu thông tin thị trường, cổ phiếu… và thực hiện eKYC để kích hoạt tài khoản.
+
+Khi mở tài khoản giao dịch chứng khoán tại MBS, Khách hàng có các lựa chọn sau:
+Tài khoản theo thông tin cá nhân: Hệ thống tự động gợi ý danh sách STK theo thông tin cá nhận KH (SĐT/CCCD/Ngày tháng năm sinh) đã khai báo. Trường hợp thông tin của KH trùng với tài khoản số đẹp thì KH chuyển sang chức năng chọn Tài khoản theo sở thích/Tài khoản số đẹp mất phí để mở tài khoản
+Tài khoản theo sở thích: KH có thể tự nhập STK theo sở thích (KH nhập đủ 6 ký tự)
+Tài khoản theo số đẹp (mất phí): Hệ thống tự động gợi ý danh sách tài khoản số đẹp và giá tiền theo cụm số khách hàng nhập.
+Đối với Khách hàng chọn tài khoản theo số đẹp (Mất phí): Khách hàng sẽ nhận được sms và email theo SĐT và email đăng ký v/v Thông tin phí mở tài khoản số đẹp. Hướng dẫn nộp phí tại đây.
+Sau khi tài khoản giao dịch chứng khoán được kích hoạt, Quý Khách có thể giao dịch chứng khoán với các dịch vụ gửi tiền, giao dịch cổ phiếu, giao dịch trái phiếu, quản lý tài khoản… qua tất cả các kênh giao dịch trực tuyến, tổng đài Contact24 hoặc trực tiếp tại các sàn giao dịch.
+
+2. Mở tài khoản online qua App MB:
++  Khách hàng chưa có tài khoản MBBank chỉ cần thực hiện 3 bước nhanh chóng để sở hữu tài khoản chứng khoán của MBS: Bước 1: Tải app MBBank và mở tài khoản Ngân hàng MB qua app, Bước 2: Định danh eKYC theo hướng dẫn trên app, Bước 3: Mở tài khoản chứng khoán ngay tại app.
++  Nếu quý khách hàng đã có tài khoản ngân hàng MB, hãy tải ứng dụng MB Bank, đăng nhập tài khoản và thực hiện mở tài khoản chứng khoán MBS
+Sau khi đăng ký mở tài khoản online thành công và được MBS kích hoạt mở tài khoản, Quý Khách có thể sử dụng ngay tài khoản để giao dịch chứng khoán với các dịch vụ giao dịch cổ phiếu, giao dịch trái phiếu, giao dịch gửi tiền, quản lý tài khoản qua kênh giao dịch trực tuyến, qua tổng đài Contact24 hoặc trực tiếp tại các sàn giao dịch.
+
+Hướng dẫn mở tài khoản: Xem chi tiết tại đây
+Video hướng dẫn mở tài khoản: Xem chi tiết tại đây
+
+3. Mở tài khoản online qua website: http://open24.mbs.com.vn/
+Sau khi đăng ký mở tài khoản online thành công Quý khách vui lòng thực hiện theo hướng dẫn đã được MBS gửi qua email của Quý khách để được kích hoạt tài khoản.
+Khi mở tài khoản giao dịch chứng khoán tại MBS, Khách hàng có các lựa chọn sau:
+Tài khoản theo thông tin cá nhân: Hệ thống tự động gợi ý danh sách STK theo thông tin cá nhận KH (SĐT/CCCD/Ngày tháng năm sinh) đã khai báo. Trường hợp thông tin của KH trùng với tài khoản số đẹp thì KH chuyển sang chức năng chọn Tài khoản theo sở thích/Tài khoản số đẹp mất phí để mở tài khoản
+Tài khoản theo sở thích: KH có thể tự nhập STK theo sở thích (KH nhập đủ 6 ký tự)
+Tài khoản theo số đẹp (mất phí): Hệ thống tự động gợi ý danh sách tài khoản số đẹp và giá tiền theo cụm số khách hàng nhập.
+Đối với Khách hàng chọn tài khoản theo số đẹp (Mất phí): Khách hàng sẽ nhận được sms và email theo SĐT và email đăng ký v/v Thông tin phí mở tài khoản số đẹp. Hướng dẫn nộp phí tại đây.
+      - Hướng dẫn hoàn thiện hồ sơ:
+Để hoàn tất thủ tục mở Tài khoản, Quý khách in bộ hợp đồng và cung cấp các giấy tờ theo hướng dẫn chi tiết tại Email MBS gửi Quý Khách hàng và gửi/mang bộ hồ sơ tới các chi nhánh/ phòng giao dịch của MBS. (Danh sách các CN/PGD MBS tại đây).
+- Hướng dẫn in, ký hồ sơ: Xem chi tiết tại đây
+
+Mở tài khoản trực tiếp
+- Quý khách có nhu cầu mở tài khoản giao dịch chứng khoán tại MBS chỉ cần mang chứng minh thư nhân dân/ Căn cước công dân còn hiệu lực đến các chi nhánh/ phòng giao dịch của MBS trên toàn quốc để làm thủ tục mở tài khoản giao dịch chứng khoán. (Danh sách các CN/PGD MBS tại đây).
+- Để được hỗ trợ thêm thông tin, vui lòng liên hệ Tổng đài 19009088 các ngày làm việc.
+Chuyển giao dịch về MBS
+- Theo quy định của Ủy ban Chứng khoán Nhà nước, một nhà đầu tư có thể có nhiều tài khoản giao dịch tại các công ty chứng khoán khác nhau. Do đó, Quý khách có thể mở thêm tài khoản giao dịch chứng khoán tại MBS đồng thời chuyển tiền và số dư chứng khoán sang tài khoản tại MBS để thực hiện giao dịch và sử dụng sản phẩm dịch vụ tốt nhất.
+Quy định về Bảo vệ Dữ liệu cá nhân
+A. QUY ĐỊNH VỀ BẢO VỆ DỮ LIỆU CÁ NHÂN
+Quy định về bảo vệ dữ liệu cá nhân này (gọi tắt là “Quy định BVDLCN”) được Công ty cổ phần chứng khoán MB (“MBS”) công bố và thông báo công khai trên website của MBS, có hiệu lực từ ngày 01/07/2023 và được áp dụng theo pháp luật Việt Nam. Bằng việc sử dụng các sản phẩm, dịch vụ, tiện ích và/hoặc thực hiện bất kỳ giao dịch, quan hệ nào với MBS theo bất kỳ phương thức nào, tổ chức, cá nhân cần đọc, hiểu rõ và mặc nhiên chấp thuận, tuân thủ Quy định BVDLCN dưới đây:
+
+I. Mục tiêu và phạm vi của quy định
+1. Quy định các hoạt động của MBS về việc thu thập, mục đích, loại dữ liệu, cách thức, địa điểm xử lý dữ liệu cá nhân, phạm vi sử dụng dữ liệu cá nhân, thời hạn xử lý, thời gian lưu trữ dữ liệu cá nhân và các biện pháp mà MBS xử lý, quản lý các dữ liệu cá nhân của Khách hàng trong quá trình Khách hàng sử dụng hoặc tương tác với các sản phẩm, dịch vụ, trang tin điện tử hoặc dịch vụ của MBS và/hoặc thực hiện bất kỳ giao dịch, quan hệ nào với MBS.
+2. Quy định BVDLCN có phạm vi áp dụng kể từ khi Khách hàng tương tác, giao tiếp, xác lập bất kỳ quan hệ, giao dịch nào và/hoặc truy cập, sử dụng các kênh, nền tảng, ứng dụng của MBS.
+3. MBS khuyến nghị Khách hàng cần đọc kỹ Quy định BVDLCN này và thường xuyên kiểm tra website của MBS, các thông báo của MBS theo bất kỳ phương thức nào để cập nhật bất kỳ thay đổi nào của MBS về Quy định BVDLCN. Đồng thời MBS cũng khuyến nghị Khách hàng thường xuyên kiểm tra lại thông tin của mình để cập nhật bất kỳ thay đổi nào mà MBS có thể thực hiện theo các quy định được nêu tại Quy định này. Khách hàng đồng ý áp dụng, phối hợp và cam kết tuân thủ Quy định BVDLCN.
+II. Giải thích từ ngữ
+1.“Dữ liệu cá nhân”là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao gồm Dữ liệu cá nhân cơ bản và Dữ liệu cá nhân nhạy cảm.
+2.“Dữ liệu cá nhân cơ bản”là thông tin cơ bản nhất của một cá nhân, bao gồm: 
+Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);
+Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;
+Giới tính;
+Nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi tạm trú, nơi ở hiện tại, quê quán, địa chỉ liên hệ;
+Quốc tịch;
+Hình ảnh của cá nhân;
+Số điện thoại, số chứng minh nhân dân, số định danh cá nhân, số hộ chiếu, số giấy phép lái xe, số biển số xe, số mã số thuế cá nhân, số bảo hiểm xã hội, số thẻ bảo hiểm y tế;
+Tình trạng hôn nhân;
+Thông tin về mối quan hệ gia đình (cha mẹ, con cái);
+Thông tin về tài khoản số của cá nhân; dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên không gian mạng;
+Các thông tin khác gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể mà không thuộc trường hợp Dữ liệu cá nhân nhạy cảm.
+“Dữ liệu cá nhân nhạy cảm” là dữ liệu, thông tin cá nhân gắn liền với quyền riêng tư của cá nhân mà khi xâm phạm sẽ gây ảnh hưởng trực tiếp tới quyền và lợi ích hợp pháp của cá nhân, bao gồm: 
+Quan điểm chính trị, quan điểm tôn giáo;
+Tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, không bao gồm thông tin về nhóm máu;
+Thông tin liên quan đến nguồn gốc chủng tộc, nguồn gốc dân tộc;
+Thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân; 
+Thông tin về thuộc tính vật lý, đặc điểm sinh học riêng của cá nhân;
+Thông tin về đời sống tình dục, xu hướng tình dục của cá nhân;
+Dữ liệu về tội phạm, hành vi phạm tội được thu thập, lưu trữ bởi các cơ quan thực thi pháp luật;
+Thông tin khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán, các tổ chức được phép khác, gồm: thông tin định danh khách hàng theo quy định của pháp luật, thông tin về tài khoản, thông tin về tiền gửi, thông tin về tài sản gửi, thông tin về giao dịch, thông tin về tổ chức, cá nhân là bên bảo đảm tại tổ chức tín dụng, chi nhánh ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;
+Dữ liệu về vị trí của cá nhân được xác định qua dịch vụ định vị;
+Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện pháp bảo mật cần thiết.
+3.“Xử lý dữ liệu cá nhân” là một hoặc nhiều hoạt động tác động tới dữ liệu cá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa, công khai, kết hợp, truy cập, truy xuất, thu hồi, mã hóa, giải mã, sao chép, chia sẻ, truyền đưa, cung cấp, chuyển giao, xóa, hủy dữ liệu cá nhân hoặc các hành động khác có liên quan.
+4. “Xử lý dữ liệu cá nhân tự động” là hình thức xử lý dữ liệu cá nhân được thực hiện bằng phương tiện điện tử nhằm đánh giá, phân tích, dự đoán hoạt động của một con người cụ thể, như: thói quen, sở thích, mức độ tin cậy, hành vi, địa điểm, xu hướng, năng lực và các trường hợp khác.
+5. “Chủ thể dữ liệu” là cá nhân được dữ liệu cá nhân phản ánh.
+6. “Khách hàng” là tổ chức, cá nhân tiếp cận, tìm hiểu, đăng ký, sử dụng sản phẩm, dịch vụ, tiện ích và/hoặc có quan hệ/giao dịch trong quá trình hoạt động, cung cấp các sản phẩm, dịch vụ, tiện ích của MBS.
+7. “Công ty” hoặc “MBS” là Công ty Cổ phần Chứng khoán MB, bao gồm trụ sở, chi nhánh, văn phòng, phòng giao dịch của công ty (nếu có).
+8. “Bên thứ ba” là tổ chức, cá nhân ngoài MBS và Chủ thể dữ liệu.
+9. “Cookie” là một tệp văn bản nhỏ được đặt trên máy tính hoặc thiết bị di động của Khách hàng khi Khách hàng truy cập trang web hoặc sử dụng ứng dụng. Cookie thu thập thông tin về người dùng và lượt truy cập của họ vào trang web hoặc sử dụng ứng dụng, chẳng hạn như địa chỉ giao thức Internet (IP) của họ, cách họ đến trang web (ví dụ: thông qua một công cụ tìm kiếm hoặc một liên kết từ một trang web khác) và cách họ điều hướng trong trang web hoặc ứng dụng. MBS sử dụng cookie và các công nghệ khác để tạo điều kiện thuận lợi cho các phiên truy cập Internet của Khách hàng và việc Khách hàng sử dụng các ứng dụng của MBS, cung cấp cho Khách hàng các sản phẩm và/hoặc dịch vụ theo cài đặt ưa thích của Khách hàng, theo dõi việc sử dụng các trang web và ứng dụng của MBS và để tổng hợp thống kê về các hoạt động được thực hiện trên các trang web của MBS và/hoặc thông qua các ứng dụng của MBS.
+10. “Thẻ pixel”, còn được gọi là đèn hiệu web, là một thẻ vô hình được đặt trên các trang nhất định của trang web của MBS nhưng không phải trên máy tính của Khách hàng. Thẻ pixel thường được sử dụng cùng với cookie và được sử dụng để theo dõi hành vi của người dùng truy cập trang web.
+Để làm rõ, các từ ngữ nào chưa được giải thích tại Quy định BVDLCN này sẽ được hiểu và áp dụng theo các quy định tại các văn bản nội bộ có liên quan do MBS ban hành từng thời kỳ và/hoặc trong các hợp đồng, thoả thuận, văn bản được giao kết giữa Khách hàng và MBS hoặc được giải thích theo quy định của pháp luật Việt Nam.
+III. Quy định chung
+1. Quy định BVDLCN này là một phần không thể tách rời của Yêu cầu kiêm hợp đồng mở tài khoản và đăng ký sử dụng dịch vụ giao dịch chứng khoán, các hợp đồng, thỏa thuận, giấy đề nghị, đăng ký… có phát sinh và chi phối, thiết lập mối quan hệ giữa Khách hàng với MBS.  
+2. Bằng việc cung cấp Dữ liệu cá nhân của một bên thứ ba (bao gồm nhưng không giới hạn bởi: thông tin của người phụ thuộc, người có liên quan theo quy định pháp luật, vợ/chồng, con cái và/hoặc cha mẹ và/hoặc người giám hộ, bạn bè, người tham chiếu, bên thụ hưởng, người ủy quyền, đối tác, người liên hệ trong các trường hợp khẩn cấp hoặc cá nhân, người đại diện, người được uỷ quyền của Khách hàng) cho MBS, Khách hàng cam đoan, bảo đảm và chịu trách nhiệm rằng Khách hàng đã có được sự đồng ý hợp pháp của bên thứ ba đó cho việc xử lý và thông tin về việc MBS là chủ thể xử lý các Dữ liệu cá nhân cho các mục đích được nêu tại Quy định BVDLCN. 
+3. Phụ thuộc vào vai trò của MBS trong từng tình huống cụ thể là (i) Bên Kiểm soát dữ liệu cá nhân; (ii) Bên Xử lý dữ liệu cá nhân; hoặc (iii) Bên Kiểm soát và xử lý dữ liệu, MBS sẽ thực hiện các quyền hạn, trách nhiệm cũng như các nguyên tắc xử lý Dữ liệu cá nhân tương ứng theo quy định của pháp luật hiện hành.
+4. Khách hàng hiểu và đồng ý rằng, việc cung cấp Dữ liệu cá nhân của Khách hàng cho MBS (bao gồm và không giới hạn bởi các thông tin MBS đã có trước, trong và sau khi Khách hàng chấp thuận các Quy định BVDLCN này) chính là sự chấp nhận toàn phần của Khách hàng cho phép MBS sử dụng Dữ liệu cá nhân trong suốt quy trình tiếp nhận và xử lý dữ liệu cá nhân, bắt đầu từ khi MBS tiếp nhận thông tin cho đến khi có yêu cầu chấm dứt việc xử lý dữ liệu từ Khách hàng.
+5. Quy định BVDLCN sẽ được ưu tiên áp dụng trong trường hợp có bất kỳ xung đột hoặc mâu thuẫn nào với các thỏa thuận, điều khoản và điều kiện trong các hợp đồng, thoả thuận, văn bản, tài liệu chi phối mối quan hệ giữa Khách hàng với MBS, cho dù các hợp đồng, thoả thuận, văn bản, tài liệu đó được ký kết trước, vào ngày hoặc sau ngày Khách hàng chấp thuận Quy định BVDLCN này.
+Tất cả các quyền và nghĩa vụ của MBS và Khách hàng tại Quy định BVDLCN này sẽ không thay thế, chấm dứt hoặc thay đổi mà sẽ đồng thời là các quyền, nghĩa vụ mà MBS và Khách hàng đang có ở bất kỳ văn bản nào và không một điều khoản nào trong Quy định BVDLCN này hàm ý hạn chế hoặc xóa bỏ bất kỳ quyền, nghĩa vụ nào trong số các quyền, nghĩa vụ của các bên đã được xác lập.
+IV. Các hoạt động xử lý dữ liệu cá nhân
+1. Thu thập Dữ liệu cá nhân 
+Để MBS có thể cung cấp các sản phẩm, dịch vụ, tính năng, tiện ích cho Khách hàng và/hoặc xử lý các yêu cầu của Khách hàng, MBS có thể cần phải và/hoặc được yêu cầu phải thu thập Dữ liệu cá nhân, bao gồm: (i) Dữ liệu cá nhân cơ bản và (ii) Dữ liệu cá nhân nhạy cảm có liên quan đến Khách hàng và các cá nhân có liên quan của Khách hàng. 
+Cách thức thu thập và phương thức thu thập: MBS (và các bên xử lý dữ liệu cá nhân do MBS sử dụng – nếu có) có thể thu thập trực tiếp hoặc gián tiếp những Dữ liệu cá nhân của Khách hàng khi Khách hàng yêu cầu và/hoặc trong quá trình MBS cung cấp bất kỳ sản phẩm, dịch vụ nào cho Khách hàng và/hoặc trong quá trình Khách hàng tương tác, giao tiếp, truy cập, sử dụng các kênh, nền tảng, ứng dụng của MBS và từ một hoặc một số các nguồn như được liệt kê dưới đây, bao gồm nhưng không giới hạn:
+Trực tiếp từ Khách hàng: MBS thu thập trong quá trình tiếp xúc, làm việc, cung cấp dịch vụ, gặp mặt trực tiếp Khách hàng và được Khách hàng cung cấp thông tin.
+Từ các trang tin điện tử, hệ thống giao dịch trực tuyến của MBS: MBS có thể thu thập Dữ liệu cá nhân của Khách hàng khi Khách hàng truy cập bất kỳ trang tin điện tử, hệ thống giao dịch trực tuyến nào của MBS hoặc sử dụng bất kỳ tính năng, tài nguyên nào có sẵn trên hoặc thông qua trang tin điện tử, hệ thống giao dịch trực tuyến này.
+Từ ứng dụng di động: MBS có thể thu thập Dữ liệu cá nhân của Khách hàng khi Khách hàng tải xuống hoặc sử dụng ứng dụng dành cho thiết bị di động của MBS.
+Từ các trao đổi, liên lạc với Khách hàng: MBS có thể thu thập Dữ liệu cá nhân của Khách hàng khi Khách hàng và MBS liên hệ với nhau, như qua email, gọi video call, gọi qua tổng đài, liên lạc điện tử hoặc bất kỳ phương tiện nào khác (bao gồm và không giới hạn cả các cuộc khảo sát, điều tra mà MBS tiến hành hoặc có được).
+Từ việc Khách hàng lựa chọn đăng ký/liên kết tài khoản của Khách hàng trên nền tảng ứng dụng của MBS với tài khoản mạng xã hội của Khách hàng và/hoặc trên nền tảng của bên thứ ba với tài khoản giao dịch chứng khoán của Khách hàng tại MBS. Khách hàng đồng ý để MBS có thể truy cập và thu thập, xử lý dữ liệu cá nhân của Khách hàng mà Khách hàng đã tự nguyện cung cấp cho các nhà cung cấp dịch vụ tài khoản này theo chính sách của họ và MBS sẽ quản lý, sử dụng các dữ liệu cá nhân này của Khách hàng theo Quy định BVDLCN này tại mọi thời điểm.
+Từ các tương tác hoặc các công nghệ thu thập dữ liệu tự động: MBS có thể thu thập Dữ liệu cá nhân của Khách hàng và các bên liên quan được ghi tự động từ kết nối của Khách hàng đến MBS như cookie, thẻ pixel, plug-in, trình tự kết nối mạng xã hội của bên thứ ba hoặc bất kỳ công nghệ nào có khả năng theo dõi, thu nhận Dữ liệu cá nhân trên các thiết bị hoặc trang tin điện tử đó (facebook, youtube, tiktok, instagram…).
+Từ Cơ quan nhà nước có thẩm quyền: MBS có thể tiếp nhận Dữ liệu cá nhân của Khách hàng từ các cơ quan quản lý như Ủy ban chứng khoán Nhà nước, Trung tâm lưu ký chứng khoán Việt Nam/Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, các Sở giao dịch chứng khoán hoặc các cơ quan có thẩm quyền khác tại Việt Nam.
+Các nguồn được công khai: MBS có thể tiếp nhận Dữ liệu cá nhân của Khách hàng từ các nguồn công khai như danh bạ điện thoại, thông tin quảng cáo/tờ rơi, các thông tin được công khai trên mạng….
+Từ người có liên quan của MBS, các nhà cung cấp, bên cung cấp dịch vụ, đối tác, bên liên kết và các bên thứ ba có liên quan đến hoạt động kinh doanh của MBS;
+Từ các bên thứ ba có quan hệ với Khách hàng; 
+Từ những nguồn khác mà Khách hàng đồng ý việc chia sẻ/cung cấp Dữ liệu cá nhân, hoặc những nguồn mà việc thu thập được pháp luật yêu cầu hoặc cho phép.
+2. Mục đích xử lý dữ liệu cá nhân 
+MBS (và các bên được phép xử lý Dữ liệu cá nhân cho MBS) có thể sử dụng, xử lý Dữ liệu cá nhân cho một hoặc nhiều mục đích hướng tới việc nâng cao chất lượng phục vụ nhu cầu, lợi ích của Khách hàng (sau đây gọi chung là “Mục đích”), bao gồm:
+Nhận biết, xác minh danh tính, tính chính xác, đầy đủ của các thông tin được Khách hàng cung cấp; xác định hoặc xác thực danh tính của Khách hàng và thực hiện quy trình xác thực khách hàng; xác định và đánh giá rủi ro nguy cơ giả mạo hoặc nghi ngờ giả mạo, bảo vệ Khách hàng khỏi các hành vi gian lận hoặc hành vi bất hợp pháp khác; phòng chống rửa tiền, tội phạm và tài trợ khủng bổ, tuân thủ cấm cận, phòng, chống tham nhũng;
+Thẩm định hồ sơ pháp lý, khả năng tài chính và điều kiện đáp ứng của Khách hàng đối với bất kỳ sản phẩm và dịch vụ nào do MBS đề xuất hoặc cung cấp;
+Cung cấp, phát triển, quản lý, đo lường các sản phẩm, dịch vụ, tiện ích do MBS đề xuất hoặc cung cấp (bao gồm nhưng không giới hạn các sản phẩm dịch vụ về tài chính, chứng khoán, đầu tư, đầu tư tài chính) và các tiện ích, tính năng khác và/hoặc các sản phẩm, dịch vụ, tiện ích được đối tác của MBS cung cấp hoặc uỷ thác, uỷ nhiệm, giao đại lý cho MBS cung cấp, thông tin trên các kênh, nền tảng, ứng dụng của MBS (như hiển thị nội dung của trang tin điện tử, ứng dụng, thông tin riêng rẽ và tích hợp về tài sản, tài chính, giao dịch, hợp đồng của Khách hàng, và/hoặc bất kỳ tuỳ chỉnh nào Khách hàng có thể lựa chọn, thông tin và nhắc thực hiện quyền, nghĩa vụ của Khách hàng liên quan đến việc giao kết và thực hiện các hợp đồng, giao dịch của Khách hàng với MBS và đối tác của MBS); và các mục đích nhằm hướng tới phục vụ nhu cầu thông tin cung cấp sản phẩm dịch vụ hiện tại và trong tương lai của Khách hàng;
+Thực hiện hoạt động đầu tư, thương mại hoặc các giao dịch và yêu cầu khác, bao gồm xử lý, giải quyết, thanh toán giao dịch hoặc báo cáo, thống kê các giao dịch của Khách hàng;
+Để thực hiện các báo cáo, thống kê, phân tích dữ liệu nội bộ của MBS (bao gồm phân tích tài chính, phân tích hành vi, xu hướng giao dịch, sở thích và phân tích các yếu tố khác nhằm mục đích phát triển, cải thiện, nâng cấp các sản phẩm, dịch vụ, tính năng, tiện ích, hệ thống giao dịch của MBS và/hoặc các mục đích hoạt động khác của MBS);
+Kiểm tra, kiểm thử, cài đặt, quản lý, nâng cấp, cải tiến kỹ thuật, nhân sự phụ trách hệ thống bảo mật, bảo vệ dữ liệu thông tin Khách hàng;
+Quảng bá, giới thiệu, thông tin đến Khách hàng về các sản phẩm, dịch vụ, chương trình khuyến mại, nghiên cứu, khảo sát, tin tức, thông tin cập nhật, các sự kiện, cuộc thi có thưởng, chương trình khách hàng thân thiết, chương trình trao thưởng, rút thăm may máy, gửi quà tặng và giải thưởng có liên quan, các hoạt động truyền thông và bất kỳ hình thức xúc tiến thương mại nào có liên quan về các dịch vụ, sản phẩm, tính năng, tiện ích của MBS và các sản phẩm, dịch vụ, hoạt động của đối tác khác có hợp tác với MBS;
+Liên hệ, chăm sóc Khách hàng, đánh giá và xử lý các chỉ thị, hướng dẫn hoặc yêu cầu từ Khách hàng, bao gồm việc phản hồi các truy vấn hoặc góp ý, giải quyết hoặc điều tra bất kỳ khiếu nại, yêu cầu pháp lý hoặc tranh chấp nào hoặc nhằm trao đổi thông tin, cung cấp các văn bản hoặc các tài liệu khác có liên quan đến giao dịch và việc sử dụng các sản phẩm, dịch vụ, tính năng, tiện ích theo yêu cầu từ Khách hàng; 
+Thông báo cho Khách hàng các thông tin chính sách sản phẩm, dịch vụ, thể lệ chương trình, hướng dẫn sử dụng các tính năng, tiện ích, các cải tiến và nâng cao tiện ích, chất lượng của sản phẩm, dịch vụ của MBS, cũng như các thông tin khác về quyền lợi, nghĩa vụ có liên quan của Khách hàng mà MBS nhận thấy cần thiết thông báo;
+Lập các báo cáo tài chính, báo cáo hoạt động, thuế hoặc các loại báo cáo liên quan khác theo quy định pháp luật và các yêu cầu, chỉ đạo của cơ quan nhà nước có thẩm quyền, điều ước quốc tế, quy tắc, thoả thuận mà MBS phải tuân thủ;
+Thực hiện nghiên cứu thị trường, khảo sát, đo lường và phân tích dữ liệu liên quan đến bất kỳ các sản phẩm, dịch vụ, tính năng, tiện ích nào do MBS cung cấp (dù được thực hiện bởi MBS hay một bên thứ ba khác mà MBS hợp tác) mà có thể liên quan đến Khách hàng;
+Bảo vệ lợi ích hợp pháp của MBS và tuân thủ các quy định pháp luật liên quan, bao gồm và không giới hạn việc để thu các khoản phí, lệ phí và/hoặc để thu hồi bất kỳ khoản nợ, nghĩa vụ tài chính nào, hay xử lý các thủ tục khiếu kiện, khiếu nại hay theo bất kỳ thỏa thuận nào giữa Khách hàng và MBS;
+Để thực hiện các biện pháp nhằm đảm bảo an toàn, bảo mật, bảo vệ Khách hàng và Dữ liệu của Khách hàng trước các trường hợp gây hại, nguy cơ gây hại;
+Ngăn chặn hoặc giảm thiểu mối đe doạ đối với tính mạng, sức khỏe của người khác và lợi ích công cộng;
+Để giám sát, kiểm tra, kiểm toán, quản lý rủi ro, quản lý tuân thủ, an ninh an toàn và các mục đích quản lý khác nhằm đáp ứng, tuân thủ các chính sách nội bộ của MBS, các thủ tục và bất kỳ quy tắc, quy định, hướng dẫn, chỉ thị hoặc yêu cầu được ban hành bởi Cơ quan nhà nước có thẩm quyền theo quy định pháp luật; 
+Để đánh giá, thực hiện bất kỳ đề xuất nào liên quan đến quyền, lợi ích hoặc nghĩa vụ theo (những) hợp đồng, thoả thuận giao kết giữa Khách hàng với MBS và quy định pháp luật;
+Cung cấp cho các bên cung cấp dịch vụ/đối tác của MBS để thực hiện dịch vụ, tính năng, tiện ích cho Khách hàng và/hoặc MBS;
+Để phục vụ các mục đích khác có liên quan đến hoạt động, quản trị, điều hành, đầu tư, kinh doanh của MBS mà MBS cho là phù hợp tại từng thời điểm;
+Theo bất kỳ cách thức nào khác mà MBS thông báo cho Khách hàng, vào thời điểm thu thập Dữ liệu cá nhân của Khách hàng hoặc trước khi bắt đầu xử lý liên quan hoặc theo yêu cầu khác hoặc được luật hiện hành cho phép.
+MBS sẽ yêu cầu sự cho phép từ Khách hàng trước khi sử dụng Dữ liệu cá nhân của Khách hàng cho mục đích khác ngoài các mục đích đã được nêu tại Quy định BVDLCN này.
+Xử lý dữ liệu cá nhân trong một số trường hợp đặc biệt
+MBS sẽ có thể ghi âm, ghi hình và xử lý Dữ liệu cá nhân thu thập được từ hoạt động ghi âm, ghi hình qua camera giám sát tại các khu vực có lắp camera (bao gồm nhưng không giới hạn bởi khu vực quầy giao dịch, văn phòng, khu vực ở hành lang, khu vực lối ra,...) phù hợp với các yêu cầu đảm bảo an ninh trong hoạt động của MBS và cho Khách hàng theo quy định của của pháp luật.
+Đối với việc sử dụng, xử lý Dữ liệu cá nhân liên quan đến Dữ liệu cá nhân của người bị tuyên bố mất tích/người đã chết, MBS sẽ phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó, trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp xử lý dữ liệu cá nhân không cần sự đồng ý của chủ thể dữ liệu theo quy định của pháp luật hiện hành. 
+MBS tôn trọng và bảo vệ Dữ liệu cá nhân của trẻ em theo nguyên tắc bảo vệ các quyền và vì lợi ích tốt nhất của trẻ em. Ngoài các biện pháp bảo vệ Dữ liệu cá nhân được quy định theo pháp luật, trước khi xử lý Dữ liệu cá nhân của trẻ em, MBS sẽ thực hiện xác minh tuổi của trẻ em và yêu cầu sự đồng ý của (i) trẻ em từ đủ 7 tuổi trở lên và/hoặc (ii) cha, mẹ hoặc người giám hộ của trẻ em theo quy định của pháp luật.
+3. Việc thu thập, chuyển giao và tiết lộ Dữ liệu cá nhân
+MBS đã và đang áp dụng các biện pháp bảo vệ dữ liệu cá nhân để ngăn chặn tình trạng thu thập dữ liệu cá nhân trái phép từ hệ thống, trang thiết bị dịch vụ của mình.
+MBS cam kết sẽ không bán, trao đổi, cho thuê, kinh doanh trái phép các thông tin cá nhân của Khách hàng, trừ trường hợp được Khách hàng đồng ý. Tuy nhiên, để thực hiện các mục đích và hoạt động xử lý Dữ liệu cá nhân tại Quy định BVDLCN này, Khách hàng đồng ý MBS được tiết lộ Dữ liệu cá nhân của Khách hàng hoặc Dữ liệu cá nhân của các bên thứ ba có liên quan đến Khách hàng, cho một hoặc các bên dưới đây:
+Cho các nhân viên và bộ phận trong nội bộ MBS cho các mục đích được nêu trong Quy định BVDLCN này và các hợp đồng, thỏa thuận, tài liệu được ký kết giữa Khách hàng;
+Cho công ty mẹ, công ty con và bất kỳ các chi nhánh, văn phòng đại diện, đại lý hoặc công ty liên kết nào của MBS, hoặc bất kỳ công ty nào là người có liên quan của MBS;
+Các đối tác, đối tác chiến lược của MBS và nhà thầu của các đối tác này, bao gồm nhưng không giới hạn như các ngân hàng, tổ chức tài chính, định chế tài chính và tổ chức, cá nhân khác có tham gia vào hoạt động nhằm các Mục đích trên và/hoặc quy trình cung cấp sản phẩm dịch vụ riêng lẻ hoặc tích hợp của MBS;
+Các tổ chức, cá nhân có liên kết, hợp tác với MBS nhằm cung cấp sản phẩm dịch vụ về đầu tư, tài chính, ngân hàng, đánh giá và xếp hạng tín nhiệm, thông tin tín dụng, các hoạt động trung gian, đại lý, môi giới, các loại hình sàn giao dịch, xúc tiến thương mại, quảng cáo, công nghệ thông tin, giải pháp, tiện ích, nền tảng, vận hành, lưu trữ, phát triển hạ tầng, hệ thống, thiết bị, phương tiện, phần mềm, ứng dụng, các dịch vụ quản lý, các tổ chức cung cấp dịch vụ hoặc thương mại tích hợp với ứng dụng của MBS và các nhà cung cấp dịch vụ thực hiện các dịch vụ thay mặt MBS (ví dụ: dịch vụ CNTT, hậu cần, dịch vụ in ấn, viễn thông, thu nợ, tư vấn, phân phối và tiếp thị);
+Các cơ quan nhà nước có thẩm quyền tại Việt Nam hoặc bất kỳ cá nhân, cơ quan quản lý hoặc bên thứ ba mà MBS được phép hoặc bắt buộc phải tiết lộ theo quy định pháp luật của bất kỳ quốc gia, hoặc theo bất kỳ hợp đồng/thỏa thuận hoặc cam kết nào khác giữa bên thứ ba và MBS;
+Các đối tác kinh doanh, nhà cung cấp phần thưởng, nhà cung cấp quà tặng, các bên đồng thương hiệu, bên tham gia hoặc phối hợp tổ chức chương trình khách hàng thân thiết, các nhà quảng cáo, tổ chức từ thiện hoặc tổ chức phi lợi nhuận, bất kỳ tổ chức nào liên quan nhằm mục đích điều hành, triển khai hoạt động kinh doanh của MBS, bên triển khai vận hành hệ thống, ứng dụng hoặc thiết bị hay cung cấp cho Khách hàng bất kỳ sản phẩm, dịch vụ nào mà Khách hàng lựa chọn hoặc các mục đích được nêu trong Quy định BVDLCN này;
+Bất kỳ cá nhân, tổ chức có liên quan đến việc thực thi hoặc duy trì bất kỳ quyền hoặc nghĩa vụ nào theo (các) thỏa thuận giữa Khách hàng với MBS; 
+Một số chuyên gia nhất định như luật sư, công chứng viên, cơ quan xếp hạng hoặc kiểm toán viên khi cần thiết trong các trường hợp cụ thể (ví dụ: tư vấn, kiện tụng, kiểm toán);
+Bên nhận chuyển hượng, nhận chuyển giao quyền, nghĩa vụ, tài sản của MBS; các bên trong giao dịch chuyển giao, hợp nhất, sáp nhập trong hoạt động của MBS và/hoặc các bên có nhu cầu tìm hiểu thông tin cho mục đích nhận chuyển nhượng, nhận chuyển giao, hợp nhất, sáp nhập này;
+Bất kỳ cá nhân, tổ chức nào là bên đại diện, bên được uỷ quyền hoặc được chấp thuận từ Khách hàng, hành động thay mặt và/hoặc nhân danh Khách hàng; hoặc Bên có liên quan đến giao dịch cũng như việc thực hiện giao dịch của Khách hàng (bên nhận thanh toán, bên thụ hưởng, người được chỉ định liên quan đến tài khoản, các tổ chức trung gian cung ứng nền tảng, dịch vụ thu chi hộ, dịch vụ thanh toán không dùng tiền mặt, tổ chức lưu ký, bù trừ, thanh toán…);
+Các cơ quan, tổ chức, cá nhân có tham gia xử lý Dữ liệu cá nhân và/hoặc liên quan đến Mục đích xử lý dữ liệu cá nhân và cá nhân, tổ chức, cơ quan được MBS tin tưởng ngay tình rằng việc chia sẻ, cung cấp là hợp lý cho Mục đích như tại Mục 4.2.a Quy định BVDLCN này;
+Các cá nhân, cơ quan, tổ chức khác mà MBS thấy là cần thiết để đáp ứng, bảo vệ các quyền, lợi ích hợp pháp của Khách hàng và của MBS;
+4. Các bên thứ ba mà Khách hàng đồng ý hoặc MBS có cơ sở pháp lý để chia sẻ Dữ liệu cá nhân của Khách hàng;
+MBS xem Dữ liệu cá nhân của Khách hàng là riêng tư và bí mật, ngoài các bên đã nêu tại Mục 4.4.b trên, MBS sẽ không tiết lộ Dữ liệu cá nhân của Khách hàng cho bất kỳ bên nào khác.
+5. Chuyển giao Dữ liệu cá nhân ra nước ngoài
+Nhằm thực hiện mục đích xử lý Dữ liệu cá nhân tại Quy định BVDLCN này, MBS có thể phải cung cấp/chia sẻ Dữ liệu cá nhân của Khách hàng đến các bên thứ ba liên quan của MBS và các bên thứ ba này có thể tại Việt Nam hoặc bất cứ địa điểm nào khác nằm ngoài lãnh thổ Việt Nam.
+Khi thực hiện việc cung cấp/chia sẻ Dữ liệu cá nhân ra nước ngoài, MBS sẽ yêu cầu bên tiếp nhận đảm bảo rằng Dữ liệu cá nhân của Khách hàng được chuyển giao cho họ sẽ bảo mật và an toàn. MBS đảm bảo tuân thủ các nghĩa vụ pháp lý và quy định liên quan đến việc chuyển giao Dữ liệu cá nhân của Khách hàng.  
+6. Trang web và ứng dụng của các bên thứ ba
+Quy định BVDLCN này áp dụng cho cả các website và ứng dụng và nền tảng của bên khác có cung cấp dịch vụ, tiện ích của MBS và các website, ứng dụng, nền tảng cung cấp sản phẩm dịch vụ, tiện ích khác của MBS có thông tin quảng cáo, các nội dung, liên kết, tích hợp, đường dẫn đến các website, ứng dụng, nền tảng của bên khác.
+Khi truy cập các website, ứng dụng, nền tảng của bên thứ ba này, Khách hàng nên đọc và tìm hiểu các điều khoản và điều kiện về bảo vệ dữ liệu cá nhân, chính sách quyền riêng tư, bảo mật thông tin của họ hoặc các quy định nội bộ có liên quan của họ. MBS không thể kiểm soát nội dung hoặc các liên kết xuất hiện trên các website, ứng dụng, nền tảng dịch vụ của bên khác và không chịu trách nhiệm về các hoạt động của Khách hàng sử dụng bởi các website, ứng dụng, nền tảng khác của bên khác được liên kết đến hoặc từ bất kỳ trang tin điện tử, ứng dụng hoặc thiết bị nào cũng như việc bên khác xử lý dữ liệu của Khách hàng.
+7. Thực hiện quyền và nghĩa vụ của Khách hàng liên quan đến Dữ liệu cá nhân
+Khách hàng có các quyền sau đây: (i) Quyền được biết; (ii) Quyền đồng ý; (iii) Quyền truy cập; (iv) Quyền rút lại sự đồng ý; (v) Quyền xóa dữ liệu; (vi) Quyền hạn chế xử lý dữ liệu; (vii) Quyền cung cấp dữ liệu; (viii) Quyền phản đối xử lý dữ liệu; (ix) Quyền khiếu nại, tố cáo, khởi kiện; (x) Quyền yêu cầu bồi thường thiệt hại; (xi) Quyền tự bảo vệ và các quyền có liên quan khác theo quy định của pháp luật. Nếu Khách hàng có bất kỳ câu hỏi nào về Quy định BVDLCN hoặc bất kỳ thắc mắc nào khác liên quan đến cách MBS quản lý, bảo vệ Dữ liệu cá nhân của Khách hàng và/hoặc có bất kỳ yêu cầu nào để thực hiện các quyền của mình, Khách hàng có thể gửi yêu cầu đến MBS hoặc tự truy cập, truy xuất, cập nhật, chỉnh sửa dữ liệu thông qua các ứng dụng hoặc kênh tiếp nhận yêu cầu của Khách hàng do MBS cung cấp từng thời kỳ.
+MBS bằng sự nỗ lực hợp lý, sẽ thực hiện yêu cầu hợp pháp và hợp lệ từ Khách hàng trong khoảng thời gian quy định pháp luật kể từ khi nhận được yêu cầu hoàn chỉnh, hợp lệ và phí xử lý liên quan (nếu có) từ Khách hàng, phụ thuộc vào quyền của MBS khi được viện dẫn đến bất kỳ sự miễn trừ và/hoặc ngoại lệ nào theo quy định pháp luật.   
+Trong trường hợp Khách hàng rút lại sự đồng ý của mình, yêu cầu xóa dữ liệu và/hoặc thực hiện các quyền có liên quan khác đối với bất kỳ hoặc tất cả các Dữ liệu cá nhân của Khách hàng, và tuỳ thuộc vào bản chất yêu cầu của Khách hàng, MBS có thể sẽ xem xét và quyết định về việc không xử lý yêu cầu của Khách hàng hoặc không tiếp tục cung cấp các sản phẩm, dịch vụ của MBS cho Khách hàng do (i) quy định pháp luật và/hoặc cơ quan có thẩm quyền không cho phép MBS thực hiện hoạt động như vậy hoặc (ii) không thể đảm bảo tiêu chuẩn/chất lượng của sản phẩm, dịch vụ nếu dữ liệu đó bị xoá/hạn chế hoặc (iii) quy định của pháp luật yêu cầu MBS cần phải thu thập dữ liệu cá nhân của Khách hàng khi cung cấp sản phẩm, dịch vụ hoặc (iv) các trường hợp khác theo đánh giá của MBS việc xoá/hạn chế dữ liệu có thể phá vỡ cấu trúc, hạ tầng bảo vệ dữ liệu lịch sử thông tin Khách hàng. Trong trường hợp MBS quyết định không cung cấp sản phẩm, dịch vụ cho Khách hàng, các hành vi được thực hiện bởi Khách hàng theo quy định này sẽ được xem là sự đơn phương chấm dứt từ phía Khách hàng cho bất kỳ mối quan hệ nào giữa Khách hàng với MBS, và hoàn toàn có thể dẫn đến sự vi phạm nghĩa vụ hoặc các cam kết theo hợp đồng, thỏa thuận giữa Khách hàng với MBS; khi đó, MBS có quyền bảo lưu các quyền và biện pháp khắc phục hợp pháp của MBS trong những trường hợp phát sinh. MBS sẽ không chịu trách nhiệm đối với Khách hàng cho bất kỳ tổn thất nào (nếu xảy ra), và các quyền hợp pháp của MBS sẽ được bảo lưu một cách rõ ràng đối với việc giới hạn, hạn chế, tạm ngừng, hủy bỏ, ngăn cản, hoặc cấm đoán đó. Khách hàng cần lưu ý, do đặc thù hoạt động của MBS, pháp luật có quy định MBS phải lưu trữ thông tin Khách hàng trong một số trường hợp nhất định, khi đó MBS không thể đáp ứng yêu cầu xóa dữ liệu của Khách hàng nếu việc xóa dữ liệu dẫn đến vi phạm pháp luật. Việc Khách hàng rút lại sự đồng ý, yêu cầu hạn chế xử lý dữ liệu, xoá dữ liệu, phản đối xử lý Dữ liệu cá nhân không ảnh hưởng đến tính hợp pháp của việc xử lý trước đó đối với Dữ liệu cá nhân đã được chấp thuận của Khách hàng.
+Vì mục đích bảo mật, Khách hàng có thể cần phải đưa ra yêu cầu của mình bằng văn bản hoặc sử dụng phương pháp khác được MBS chấp thuận từng thời kỳ để chứng minh và xác thực danh tính của Khách hàng. MBS có thể yêu cầu Khách hàng xác minh danh tính trước khi xử lý yêu cầu của Khách hàng.
+Khách hàng có trách nhiệm tự bảo vệ Dữ liệu cá nhân của mình, yêu cầu các tổ chức, cá nhân khác có liên quan bảo vệ Dữ liệu cá nhân của mình. Đồng thời, Khách hàng cũng phải tôn trọng và bảo vệ Dữ liệu cá nhân của người khác.
+Cung cấp đầy đủ, chính xác Dữ liệu cá nhân cho MBS khi thiết lập quan hệ, giao kết hợp đồng và/hoặc trong suốt thời gian sử dụng sản phẩm, dịch vụ, giao dịch với MBS.
+Thực hiện và tuân thủ quy định của pháp luật về bảo vệ Dữ liệu cá nhân và tham gia phòng, chống các hành vi vi phạm quy định về bảo vệ Dữ liệu cá nhân.
+Trong trường hợp có sự thay đổi, điều chỉnh Dữ liệu cá nhân, Khách hàng có trách nhiệm truy cập hệ thống giao dịch trực tuyến của MBS (nếu hệ thống có hỗ trợ) để chủ động kiểm tra, cập nhật Dữ liệu cá nhân hoặc liên hệ và thông báo ngay cho MBS để MBS thực hiện cập nhật kịp thời những thay đổi, điều chỉnh đó. Khách hàng sẽ chịu trách nhiệm toàn bộ đối với việc chậm trễ cập nhật hay chậm thông báo cho MBS để cập nhật các Dữ liệu cá nhân này; đồng thời, việc chậm trễ cập nhật hay chậm trễ thông báo cho MBS cập nhật dữ liệu từ phía Khách hàng sẽ miễn trừ cho MBS khỏi mọi thiệt hại, rủi ro phát sinh cho Khách hàng và các bên liên quan (nếu có).
+8. Biện pháp bảo vệ và rủi ro khi bị lộ Dữ liệu cá nhân
+MBS luôn coi trọng quyền riêng tư và nỗ lực bảo mật, bảo đảm an toàn các Dữ liệu cá nhân của Khách hàng như là tài sản quan trọng nhất của MBS và MBS luôn cố gắng đảm bảo tính bảo mật, an toàn, tuân thủ pháp luật, hạn chế các hậu quả, thiệt hại không mong muốn có khả năng xảy ra. MBS đã và đang áp dụng các biện pháp cần thiết để bảo vệ dữ liệu cá nhân của Khách hàng (bao gồm cả những chủ thể có liên quan của Khách hàng) và trách nhiệm bảo mật Dữ liệu cá nhân của Khách hàng là yêu cầu bắt buộc MBS đặt ra cho toàn thể cán bộ nhân viên. MBS thực hiện trách nhiệm bảo vệ Dữ liệu cá nhân theo quy định của pháp luật hiện hành với các phương pháp bảo mật phù hợp theo quy định pháp luật, thông lệ thị trường và thường xuyên xem xét, cập nhật các biện pháp quản lý và kỹ thuật khi xử lý Dữ liệu cá nhân của Khách hàng (nếu có).
+Khách hàng hiểu rằng việc cung cấp và chấp thuận cho MBS sử dụng, xử lý Dữ liệu cá nhân sẽ luôn tồn tại những rủi ro tiềm tàng như rủi ro rò rỉ một phần Dữ liệu hoặc việc xử lý dữ liệu chưa phù hợp, kịp thời, có thể phát sinh từ các nguyên nhân như: lỗi của hệ thống, đường truyền, sự kiện bất khả kháng, virut, tấn công mạng hoặc lỗi phần cứng, phần mềm, các hành động, thao tác của Khách hàng hoặc bất kỳ bên thứ ba nào khác ảnh hưởng đến việc cung cấp và xử lý Dữ liệu cá nhân của Khách hàng…. Các rủi có thể phát sinh như việc Dữ liệu cá nhân của Khách hàng có thể bị lộ hoặc bị đánh cắp bởi một bên khác dẫn đến việc các Dữ liệu cá nhân này có thể được sử dụng vào những mục đích không mong muốn hoặc nằm ngoài tầm kiểm soát của MBS và Khách hàng gây ra những tổn thất cả về vật chất và tinh thần.
+MBS và Khách hàng đều cần nhận biết rằng không gian mạng (Internet) không phải là một môi trường an toàn và không thể đảm bảo tuyệt đối rằng Dữ liệu cá nhân của Khách hàng được chia sẻ bằng Internet sẽ luôn được bảo mật. Dữ liệu cá nhân của Khách hàng được truyền tải khi Khách hàng sử dụng Internet do Khách hàng chịu trách nhiệm và Khách hàng chỉ nên sử dụng các hệ thống an toàn để truy cập trang tin điện tử, ứng dụng hoặc thiết bị. Ngoài nỗ lực bảo vệ Dữ liệu cá nhân của MBS, Khách hàng cũng phải có trách nhiệm bảo mật thông tin xác thực truy cập của mình cho từng trang tin điện tử, ứng dụng, nền tảng và bảo vệ thiết bị, tài khoản giao dịch, các yếu tố bảo mật, thông tin đăng nhập tài khoản của chính mình và thông báo ngay cho MBS nếu có phát hiện có các hành vi lạm dụng, sử dụng trái phép.
+9. Thời gian xử lý và Lưu trữ Dữ liệu cá nhân
+Thời gian xử lý dữ liệu cá nhân sẽ không phụ thuộc vào thời điểm Khách hàng giao dịch với MBS và/hoặc Khách hàng đã chấm dứt/ngưng sử dụng sản phẩm, dịch vụ và/hoặc các hợp đồng, thoả thuận, giao dịch, quan hệ giữa MBS và Khách hàng đã xác lập, Quy định BVDLCN này luôn có hiệu lực kể từ thời điểm Dữ liệu cá nhân của Khách hàng được ghi, nhận trên hệ thống của MBS cho đến khi các Mục đích xử lý dữ liệu cá nhân tại Điều 4.2.a được hoàn thành hoặc các trường hợp chấm dứt xử lý dữ liệu cá nhân theo quy định pháp luật.
+Dữ liệu cá nhân của Khách hàng do MBS lưu trữ sẽ được bảo mật. MBS sẽ thực hiện các biện pháp hợp lý để bảo vệ Dữ liệu cá nhân của Khách hàng khi được lưu trữ tại MBS. 
+MBS lưu trữ Dữ liệu cá nhân của Khách hàng trong khoảng thời gian cần thiết để hoàn thành các mục đích theo các thỏa thuận, hợp đồng, văn bản, tài liệu Khách hàng đã ký với MBS và/hoặc phù hợp với các mục đích được nêu theo Quy định BVDLCN này, trừ khi thời gian lưu trữ Dữ liệu cá nhân có thể kéo dài lâu hơn nếu được cơ quan nhà nước có thẩm quyền yêu cầu hoặc Khách hàng cho phép và theo quy định pháp luật hiện hành.
+10. Hiệu lực, Thông báo và Sửa đổi, bổ sung Quy định BVDLCN
+Khi sử dụng bất kỳ sản phẩm, dịch vụ hoặc truy cập bất kỳ trang tin điện tử, ứng dụng hoặc thiết bị của MBS hoặc được kết nối đến MBS, Khách hàng được coi là đã chấp nhận toàn bộ Quy định BVDLCN này. Trong trường hợp Khách hàng không chấp nhận Quy định BVDLCN này, Khách hàng có quyền đưa ra quyết định bằng văn bản gửi MBS về việc chấm dứt việc sử dụng các dịch vụ, sản phẩm hoặc chấm dứt việc truy cập vào các trang tin điện tử, ứng dụng hoặc thiết bị của MBS hoặc chấm dứt việc sử dụng các web, ứng dụng, thiết bị được kết nối đến MBS. Trường hợp Khách hàng đưa ra quyết định chấm dứt song vẫn tiếp tục sử dụng sản phẩm, dịch vụ hoặc truy cập vào các trang tin điện tử, ứng dụng của MBS và/hoặc sử dụng thiết bị, ứng dụng kết nối đến MBS thì được hiểu Khách hàng đã thay đổi ý kiến và đồng ý chịu sự điều chỉnh của Quy định BVDLCN này.
+Không phụ thuộc vào hiệu lực của các hợp đồng, thoả thuận, văn kiện khác giao kết, xác lập giữa Khách hàng và MBS, Quy định BVDLCN này luôn có hiệu lực áp dụng với Khách hàng cho đến khi các Mục đích xử lý dữ liệu được hoàn thành và có thoả thuận chấm dứt xử lý dữ liệu cá nhân của Khách hàng với MBS và/hoặc khi quy định nội bộ của MBS, quy định pháp luật có liên quan quy định chấm dứt xử lý, xoá, huỷ toàn bộ Dữ liệu cá nhân của Khách hàng.
+MBS có quyền sửa đổi, cập nhật hoặc điều chỉnh các điều khoản của Quy định BVDLCN này tùy từng thời điểm và đảm bảo việc sửa đổi, bổ sung phù hợp với các quy định pháp luật có liên quan. Tất cả các thông báo về việc sửa đổi, cập nhật hoặc điều chỉnh nào về Quy định BVDLCN này sẽ được MBS gửi cho Khách Hàng qua một hoặc một số cách thức sau: công khai trên website, thư điện tử, ứng dụng di động của MBS, tin nhắn thuê bao di động hoặc các phương thức khác mà MBS cho là phù hợp.
+MBS hiểu rằng, việc Khách hàng tiếp tục sử dụng các dịch vụ, sản phẩm, truy cập trang tin điện tử/ứng dụng của MBS đồng nghĩa với việc Khách hàng đồng ý với các nội dung sửa đổi, cập nhật của Quy định BVDLCN này.
+11. Liên hệ với MBS
+Nếu Khách hàng muốn thực hiện các quyền của mình hoặc có bất kỳ góp ý, phản hồi hoặc yêu cầu nào liên quan đến Quy định BVDLCN này, vui lòng liên hệ MBS theo hướng dẫn sau:
+Gọi điện đến tổng đài: 1900 9088.
+Gửi thư điện tử cho MBS theo địa chỉ: cskh@mbs.com.vn.
+Liên hệ trực tiếp tại các địa điểm trụ sở, chi nhánh hoạt động của MBS.
+Website: https://mbs.com.vn/
+Hệ thống giao dịch chứng khoán trực tuyến của MBS từng thời kỳ.
+Các địa chỉ hoặc phương thức khác do MBS cung cấp từng thời kỳ.A. PHÁT HÀNH ĐỢT BÁN THÁNG 01/2020
+Trái phiếu chính phủ
+I. QUY ĐỊNH GIAO DỊCH TRÁI PHIẾU CHÍNH PHỦ TẠI SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI
+
+1. Sản phẩm giao dịch
+Trái phiếu bao gồm: Trái phiếu Chính phủ, Trái phiếu chính quyền địa phương, Trái phiếu được Chính phủ bảo lãnh.
+Tín phiếu Kho bạc.
+Công trái xây dựng Tổ quốc.
+2. Thời gian giao dịch
+Từ Thứ Hai đến Thứ Sáu hàng tuần, trừ ngày nghỉ lễ theo quy định của Bộ Luật Lao động.
+Phiên buổi sáng từ 9h00 đến 11h30.
+Phiên buổi chiều từ 13h00 đến 14h45.
+Thời gian thỏa thuận, báo cáo giao dịch chưa tới ngày giao dịch vào hệ thống giao dịch công cụ nợ được kéo dài tới 17h00.
+3. Giao dịch mua bán cùng phiên của nhà đầu tư
+Việc đồng thời vừa mua vừa bán một mã công cụ nợ trong một phiên giao dịch của nhà đầu tư chỉ được phép thực hiện khi việc mua bán này có phát sinh chuyển giao quyền sở hữu đối với công cụ nợ giao dịch.
+4. Mệnh giá niêm yết và đơn vị giao dịch
+Mệnh giá của công cụ nợ niêm yết trên SGDCK là 100.000 (một trăm nghìn) đồng hoặc bội số của 100.000 (một trăm nghìn) đồng.
+Đơn vị giao dịch quy định là 01 (một) công cụ nợ.
+5. Đơn vị yết giá
+Đơn vị của giá yết quy định là 01 (một) đồng.
+Đơn vị của giá thực hiện do hệ thống tính được làm tròn đến 01 (một) đồng.
+K6. hối lượng giao dịch tối thiểu
+Khối lượng giao dịch Công cụ nợ tối thiểu áp dụng cho hình thức thỏa thuận điện tử và hình thức thỏa thuận thông thường là 100 (một trăm) Công cụ nợ.
+Đối với giao dịch mua bán lại gồm nhiều mã Công cụ nợ, khối lượng giao dịch tối thiểu của mỗi mã Công cụ nợ là 100 (một trăm) Công cụ nợ.
+Đối với giao dịch mua bán thông thường có khối lượng từ 01 (một) đến 99 (chín chín) Công cụ nợ (giao dịch lô lẻ) được thực hiện trực tiếp giữa nhà đầu tư và thành viên giao dịch thông thường hoặc giữa các thành viên giao dịch Công cụ nợ với nhau theo nguyên tắc thỏa thuận về giá.
+7. Hình thức Giao dịch
+Hình thức thỏa thuận điện tử: Bao gồm các loại lệnh sau:
+Lệnh thỏa thuận điện tử toàn thị trường:Lệnh thỏa thuận điện tử toàn thị trường: là các lệnh chào mua, chào bán với cam kết chắc chắn có hiệu lực trong ngày được chào công khai trên hệ thống.
+Lệnh thỏa thuận điện tử toàn thị trường chỉ áp dụng đối với giao dịch mua bán thông thường.
+Lệnh thỏa thuận điện tử tùy chọn: Bao gồm hai loại lệnh sau:
+Lệnh yêu cầu chào giá: Lệnh yêu cầu chào giá có tính chất quảng cáo được sử dụng khi nhà đầu tư chưa xác định được đối tác trong giao dịch. Lệnh yêu cầu chào giá có thể gửi đến một, một nhóm thành viên hoặc toàn thị trường.
+Lệnh chào mua, chào bán với cam kết chắc chắn: Lệnh chào với cam kết chắc chắn được sử dụng để chào đối ứng với lệnh yêu cầu chào giá. Lệnh chào với cam kết chắc chắn chỉ được gửi đích danh cho thành viên gửi Lệnh yêu cầu chào giá.
+Hình thức thỏa thuận thông thường:
+Hình thức thỏa thuận thông thường bao gồm lệnh báo cáo giao dịch. Lệnh báo cáo được sử dụng để nhập giao dịch vào hệ thống trong trường hợp giao dịch đã được các bên thoả thuận xong về các điều kiện trong giao dịch.
+Kết quả báo cáo giao dịch phải được báo cáo và nhập vào hệ thống giao dịch trong thời hạn 01 ngày làm việc kể từ ngày các bên thỏa thuận xong về giao dịch. Thông tin báo cáo vào hệ thống bao gồm:
+Thời điểm giao kết giao dịch;
+Thời điểm ký hợp đồng;
+Thời điểm thực hiện giao dịch (thời điểm chuyển giao công cụ nợ và thanh toán giao dịch);
+Các thông tin khác có liên quan.
+Thời gian kể từ ngày nhập kết quả giao dịch mua bán thông thường vào hệ thống đến ngày thực hiện giao dịch không được vượt quá ba (03) ngày làm việc.
+8. Các loại hình Giao dịch
+8.1. Giao dịch mua bán thông thường: Là giao dịch trên hệ thống giao dịch trong đó một bên bán và một bên chuyển giao quyền sở hữu công cụ nợ cho một bên khác và không kèm theo cam kết chắc chắn mua lại công cụ nợ.
+Loại lệnh áp dụng:
+Lệnh thỏa thuận điện tử toàn thị trường;
+Lệnh thỏa thuận điện tử tùy chọn;
+Lệnh báo cáo giao dịch.
+8.2. Giao dịch mua bán lại: Là giao dịch trên thống giao dịch trong đó một bên bán và chuyển giao quyền sở hữu công cụ nợ cho bên khác, đồng thời cam kết chắc chắn mua lại và nhận lại quyền sở hữu công cụ nợ đó sau một thời gian xác định với một mức giá xác định.
+Giao dịch mua bán lại gồm giao dịch bán (Giao dịch lần 1) và giao dịch mua lại (Giao dịch lần 2).
+Trong giao dịch mua bán lại, bên bán được hiểu là bên bán trong giao dịch lần 1 và bên mua được hiểu là bên mua trong giao dịch lần 1.
+Loại lệnh áp dụng:
+Lệnh thỏa thuận điện tử tùy chọn;
+Lệnh báo cáo giao dịch.
+8.3. Giao dịch bán kết hợp mua lại: Là giao dịch trên hệ thống giao dịch kết hợp hai giao dịch mua bán thông thường tại cùng một thời điểm với cùng một đối tác giao dịch.
+Bao gồm: Một giao dịch bán công cụ nợ (Giao dịch thông thường lần 1) kết hợp với một giao dịch mua lại cùng công cụ nợ đó (Giao dịch thông thường lần 2) tại một thời điểm xác định trong tương lai.
+Bên bán trong giao dịch thông thường lần 1 là bên bên mua trong giao dịch thông thường lần 2.
+Giá, khối lượng, thời điểm thực hiện của giao dịch thông thường lần 2 phải được xác định trước tại thời điểm giao kết hai giao dịch.
+Loại lệnh áp dụng:
+Lệnh thỏa thuận điện tử tùy chọn;
+Lệnh báo cáo giao dịch.
+8.4. Giao dịch vay và cho vay: Là giao dịch trong đó bên đi vay thực hiện vay công cụ nợ và cam kết sẽ hoàn trả công cụ nợ đã vay cho bên vay sau một thời gian xác định.
+Giao dịch vay và cho vay được thực hiện theo thỏa thuận giữa các bên và trên hệ thống giao dịch tại SGDCK hoặc trên hệ thống vay và cho vay của Trung tâm Lưu ký chứng khoán Việt Nam. Các bên tự thỏa thuận và chịu trách nhiệm về các nội dung liên quan tới khối lượng vay, tài sản vay và hoàn trả, tài sản đảm bảo, lãi suất vay và các điều khoản khác, đảm bảo các thỏa thuận này tuân thủ các quy định áp dụng cho các bên tham gia giao dịch và quy chế của SGDCK và Trung tâm Lưu ký Chứng khoán Việt Nam.
+Chỉ nhà tạo lập thị trường mới được thực hiện vay trong giao dịch vay và cho vay.
+Loại lệnh áp dụng:
+Lệnh thỏa thuận điện tử tùy chọn;
+Lệnh báo cáo giao dịch. 
+Sửa/hủy lệnh giao dịch thỏa thuận
+Quy định sửa, hủy lệnh thỏa thuận chưa thực hiện
+Trong thời gian phiên giao dịch, được phép sửa, hủy lệnh thỏa thuận chưa thực hiện theo yêu cầu của nhà đầu tư hoặc trong trường hợp nhập sai so với lệnh gốc.
+Việc sửa hoặc hủy lệnh thỏa thuận chưa thực hiện phải tuân thủ theo quy trình sửa, hủy lệnh thỏa thuận chưa thực hiện quy định trong Quy trình giao dịch công cụ nợ do SGDCK ban hành.
+Quy định sửa, hủy lệnh thỏa thuận đã thực hiện
+Giao dịch công cụ nợ đã được xác lập trên hệ thống không được phép hủy bỏ, ngoại trừ các giao dịch quy định chi tiết theo Quy chế 770 tại  khoản 2 Điều 18 Thông tư 30/2019/TT-BTC.
+Phương thức nhận lệnh
+Giao dịch trực tiếp tại Sở giao dịch, các Chi nhánh của MBS.
+Giao dịch qua điện thoại Contact Center 1900 9088.
+Thời hạn thanh toán
+Bù trừ đa phương: T+1.
+Ghi chú:
+T: là ngày giao dịch.
+Lưu ý: Trên đây chỉ là trích dẫn một số nội dung chính về quy định giao dịch hiện hành tại các Sở giao dịch chứng khoán mà không phải toàn văn Quy định giao dịch của các Sở giao dịch. Quý khách hàng có thể liên hệ với chúng tôi để biết thêm các quy định chi tiết khác. Trường hợp các Sở giao dịch có thông báo về việc sửa đổi/bổ sung Quy định giao dịch, MBS sẽ cố gắng cập nhật nhanh nhất các nội dung sửa đổi; trường hợp MBS chưa kịp thời cập nhật, các nội dung sửa đổi/bổ sung sẽ có hiệu lực thi hành thay thế các nội dung hiện hành nêu tại đây.
+Trái phiếu Doanh nghiệp ABond
+ABond là sản phẩm trái phiếu doanh nghiệp được phát hành bởi các doanh nghiệp danh tiếng, đầu ngành tại Việt Nam và được tư vấn phát hành bởi Công ty Cổ phần Chứng khoán MB – Thành viên của Ngân hàng TMCP Quân Đội (MBBank)
+
+I. Sản phẩm Abond
+ABond là danh mục các Trái phiếu được Công ty CP Chứng khoán MB (MBS) tư vấn phát hành và phân phối tới các
+nhà đầu tư có tiềm lực tài chính thông qua các giao dịch mua bán Trái phiếu.
+
+II. Lợi ích sản phẩm
+Lợi suất cao
+Lợi suất cao
+Lợi suất từ đầu tư trái phiếu cao hơn lãi suất ngân hàng cùng kỳ hạn từ 1,2% đến 2%
+
+Kênh đầu tư an toàn – Bảo toàn vốn gốc
+Kênh đầu tư an toàn – Bảo toàn vốn gốc
+Trái phiếu phân phối được tư vấn và thẩm định chặt chẽ bởi đội ngũ chuyên gia của MBS, đảm bảo tổ chức phát hành là những doanh nghiệp uy tín hàng đầu
+
+Dễ dàng tiếp cận
+Dễ dàng tiếp cận
+Giá trị đầu tư tối thiểu từ 200 triệu đồng
+
+Thủ tục nhanh gọn
+Thủ tục nhanh gọn
+Thông qua 4 bước giao dịch ngắn gọn, khách hàng sẽ hoàn thiện giao dịch đầu tư trái phiếu
+
+Bảo mật thông tin khách hàng
+Bảo mật thông tin khách hàng
+Khách hàng ký hợp đồng mua bán trực tiếp với MBS
+
+Thông tin cập nhật
+Thông tin cập nhật
+MBS cam kết cập nhật liên tục thông tin về trái phiếu và các quyền lợi của nhà đầu tư
+
+
+III. Danh mục trái phiếu
+DANH MỤC TRÁI PHIẾU MBS ĐANG PHÂN PHỐI:
+1. CTCP Đầu tư Hải Phát
+Trái phiếu HPXH2122005
+- Thông tin tổ chức phát hành
+- Thông tin trái phiếu
+
+2. Công ty Cổ phần Đầu tư xây dựng và phát triển Năng lượng Vinaconex (VCP)
+- Thông tin tổ chức phát hành
+- Thông tin trái phiếu
+
+Quy trình giao dịch
+Quy trình khách hàng đầu tư trái phiếu
+Liên hệ chuyên viên chăm sóc khách hàng	Ký hợp đồng mua bán trái phiếu	Chuyển tiền mua trái phiếu	Nhận bộ hồ sơ
+Trái phiếu riêng lẻ 
+1. Trái phiếu riêng lẻ là gì?
+Trái phiếu doanh nghiệp phát hành riêng lẻ (trái phiếu riêng lẻ) là loại chỉ trái phiếu không chào bán thông qua phương tiện thông tin đại chúng, chỉ được phép chào bán cho những khách hàng đáp ứng đủ điều kiện nhất định.
+Thông tin cơ bản của Trái phiếu riêng lẻ:
+Mã Trái phiếu riêng lẻ: Mã trái phiếu riêng lẻ phát hành
+Ngày đáo hạn: ngày đáo hạn là ngày mà tổ chức phát hành phải mua lại trái phiếu.
+Giá thực hiện: là giá tính trên một trái phiếu dùng để xác định số tiền thanh toán của giao dịch.
+Mệnh giá trái phiếu riêng lẻ: một trăm triệu (100.000.000) đồng Việt Nam hoặc bội số của một trăm triệu (100.000.000) đồng Việt Nam.
+2. Điều kiện để được giao dịch TPRL
+Đã đăng ký giao dịch trái phiếu riêng lẻ tại MBS và được VSD chấp nhận ít nhất 01 ngày làm việc trước khi bắt đầu giao dịch (hoặc theo quy định từng thời kỳ của cơ quan quản lý).
+Là nhà đầu tư chuyên nghiệp theo quy định của pháp luật chứng khoán khi mua trái phiếu riêng lẻ.
+Đã ký Bản xác nhận thông tin của mã trái phiếu theo mẫu quy định tại Phụ lục V Nghị định 65/2022/NĐ-CP trước khi bắt đầu giao dịch. (Áp dụng theo mã).
+3. Cách thức đăng ký giao dịch TPR
+Nhà đầu tư cần có tài khoản giao dịch chứng khoán thông thường trước khi đăng ký giao dịch Trái phiếu riêng lẻ tại MBS.
+Trường hợp Nhà đầu tư chưa có tài khoản chứng khoán cơ sở tại MBS vui lòng xem hướng dẫn mở tài khoản chứng khoán tại đây.
+Trường hợp Nhà đầu tư đã có tài khoản giao dịch chứng khoán tại MBS, Nhà đầu tư có thể đăng ký giao dịch TPRL theo quy định từng thời kỳ của MBS. Nhà đầu tư cần cung cấp các hồ sơ như sau:
+Giấy đăng ký giao dịch Trái phiếu riêng lẻ tại MBS
+Giấy tờ pháp lý:
+Đối với cá nhân trong nước: CMND/CCCD
+Đối với tổ chức trong nước: Quyết định thành lập/Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu tương đương khác
+Đối với khách hàng nước ngoài vui lòng liên hệ tổng đài 19009088 để được hỗ trợ
+Nhà đầu tư cần đáp ứng tiêu chí về nhà đầu tư chuyên nghiệp trước khi MUA trái phiếu, không bắt buộc phải là nhà đầu tư chuyên nghiệp khi đăng ký giao dịch hoặc bán trái phiếu.
+Khách hàng có thể liên hệ tổng đài 19009088 hoặc nhân viên chăm sóc để được hỗ trợ đăng ký giao dịch Trái phiếu riêng lẻ.
+4. Hướng dẫn giao dịch Trái phiếu riêng lẻ:
+Các bước thực hiện khi mua bán:
+Diễn giải
+Khách hàng gửi yêu cầu đặt lệnh cho MBS:
+Khách hàng gửi phiếu lệnh mẫu đến ĐVKD theo Mẫu biểu GD-000 TPRL – Phiếu lệnh giao dịch hoặc Yêu cầu đặt lệnh có thông tin đầy đủ về lệnh: Số TK GDCK, mã hiệu TPRL, số tiền, khối lượng, …
+Bản xác nhận thông tin theo từng mã Trái phiếu (Phụ lục V – Nghị định 65/2022/NĐ-CP)
+ĐVKD kiểm tra thông tin lệnh, thực hiện lệnh trên hệ thống và thông báo trạng thái lệnh đến Khách hàng.
+Kết quả lệnh giao dịch sẽ được cập nhật trên hệ thống của MBS, Khách hàng nhận được email thông báo kết quả giao dịch.
+5. Quy định về giao dịch:
+Thời gian giao dịch: Từ thứ Hai đến thứ Sáu hàng tuần, trừ các ngày nghỉ theo quy định, với 2 phiên giao dịch, cụ thể:
+Phiên giao dịch sáng từ 09h00 - 11h30
+Phiên giao dịch chiều từ 13h00 - 15h00
+Nghỉ trưa từ 11h30 - 13h00.
+Đơn vị giao dịch TPDNRL: 1 trái phiếu, khối lượng giao dịch tối thiểu là 1 trái phiếu
+Đơn vị yết giá: 1 đồng.
+Phương thức giao dịch: Giao dịch thỏa thuận
+Loại hình giao dịch: là mua bán thông thường với phương thức giao dịch thoả thuận điện tử và thỏa thuận thông thường:
+Thỏa thuận điện tử (bao gồm lệnh điện tử toàn thị trường): thành viên giao dịch nhập lệnh chào mua/chào bán với cam kết chắc chắn vào hệ thống hoặc lựa chọn các lệnh đối ứng phù hợp đã được nhập vào hệ thống để thực hiện giao dịch.
+Thỏa thuận thông thường (bao gồm lệnh báo cáo giao dịch): bên mua và bên bán tự thỏa thuận với nhau về các điều kiện giao dịch từ trước và báo cáo kết quả vào hệ thống giao dịch TPDNRL thông qua thành viên giao dịch để xác lập giao dịch mua bán.
+Phương thức thanh toán: Thanh toán ngay /Thanh toán cuối ngày (T+0).
+Hủy, sửa lệnh Trái phiếu riêng lẻ:
+Đối với các lệnh giao dịch thỏa thuận chưa xác nhận (chưa khớp), Khách hàng có nhu cầu thay đổi Hủy/ Sửa lệnh vui lòng liên hệ ĐVKD.
+ĐVKD sẽ kiểm tra trạng thái lệnh, thực hiện hủy/ sửa lệnh theo quy định của SGDCK và thông báo kết quả hủy/ sửa lệnh đến Khách hàng.
+6. Lợi ích của giao dịch Trái phiếu riêng lẻ
+Kênh đầu tư dài hạn, lợi suất ổn định, …
+Thông tin đầy đủ, minh bạch, bảo vệ lợi ích cho nhà đầu tư.
+Doanh nghiệp phát hành sử dụng các dịch vụ kiểm toán, xếp hạng tín nhiệm, định giá tài sản để đánh giá tình hình hoạt động của doanh nghiệp cho nhà đầu tư.
+
+Tư vấn đầu tư 
+Tư vấn đầu tư là một trong những thế mạnh cạnh tranh của MBS.
+
+Đội ngũ trên 200 chuyên viên quan hệ khách hàng được đào tạo bài bản;
+Đội ngũ chuyên viên quan hệ khách hàng luôn bám sát thị trường, thường xuyên đưa ra các nhận định và tư vấn cho khách hàng ngay trong phiên giao dịch;
+Được hỗ trợ bởi Khối Nghiên cứu MBS với các sản phẩm nghiên cứu chuyên nghiệp, độc lập và đa dạng.
+Đến với MBS, Khách hàng sẽ được cung cấp dịch vụ tư vấn đầu tư hiệu quả, trên cơ sở trung thực, tin cậy và kịp thời.
+
+Ủy thác quản lý tài khoản
+1. Ủy thác quản lý tài khoản là một dịch vụ được MBS chú trọng phát triển nhằm đem lại những lợi ích tối đa cho khách hàng:
+
+Giúp các khách hàng không có thời gian bám sát thị trường mà vẫn có thể đầu tư hiệu quả vào thị trường chứng khoán Việt Nam;
+Được làm việc với những chuyên gia tư vấn đầu tư được đào tạo bài bản và chuyên sâu, có nhiều năm kinh nghiệm thực tế trên thị trường;
+Đem đến cơ hội cho những nhà đầu tư chưa có nhiều kinh nghiệm.
+Sử dụng dịch vụ ủy thác quản lý tài khoản của MBS đem đến những cơ hội đầu tư hiệu quả, là lựa chọn tốt nhất đối với những nhà đầu tư.
+
+2. COPI24 – ĐỒNG HÀNH ĐẦU TƯ CÙNG CHUYÊN GIACopi24 là công cụ thuộc hệ sinh thái MBS giúp bạn có thể lựa chọn chiến lược đầu tư theo các nhà đầu tư tài năng (Leader). Copi24 giúp bạn (copier) đơn giản hóa và tối ưu hoạt động đầu tư cùng các chuyên gia hàng đầu.
+
+Copi24 dành cho ai
+
+Bạn là nhà đầu tư mới, chưa có nhiều kinh nghiệm trên thị trường chứng khoán.
+Bạn là người bận rộn, không có nhiều thời gian nghiên cứu thị trường.
+Bạn muốn đồng hành cùng các chuyên gia, những nhà đầu tư có nhiều kinh nghiệm trên thị trường chứng khoán nhằm thu được lợi nhuận bền vững và hạn chế tối đa rủi ro.
+Những ưu điểm nổi bật của Copi24
+
+Được gợi ý danh sách các nhà đầu tư tài năng top đầu (Top Leader) tại MBS.
+Được tiếp cận với các chuyên gia đầu tư của khối nghiên cứu, Broker MBS với nhiều năm kinh nghiệm và uy tín.
+Được xem hiệu quả đầu tư các nhà đầu tư tài năng (Leader).
+Được ủy thác các giao dịch mua bán cổ phiếu theo nhà đầu tư tài năng (Leader) mà bạn lựa chọn.
+Được lựa chọn ủy thác một đến không giới hạn các nhà đầu tư tài năng (Leader) mà bạn muốn, thay đổi dễ dàng bất kỳ lúc nào.
+Giao diện đơn giản, thân thiện, dễ dàng thao tác với người mới bắt đầu.
+Tham gia và sử dụng Copi24 như thế nào:
+
+Bước 1: Mở tài khoản chứng khoán dễ dàng trên ứng dụng MBS.
+Bước 2: Vào mục Copi24 (biểu tượng chữ C) trên nền tảng MBS để xem danh sách các Leader phù hợp với bạn dựa trên các tiêu chí có sẵn.
+Bước 3: Đăng ký làm Copier . Sau đó bấm nút “Sao chép” và nhập số tiền bạn muốn sao chép đầu tư cùng Leader đã chọn.
+Bước 4: Theo dõi giao dịch và danh mục sao chép của bạn trong phần “Quản lí sao chép”.
+Bước 5: Dừng sao chép hoặc thay đổi Leader mọi lúc khi cần.
+Quản lý sản phẩm ủy thác quản lý tài khoán GDCK - Copi24:
+
+Chuyên gia có chứng chỉ hành nghề chứng khoán Dương Văn Chung.""","book.txt"
